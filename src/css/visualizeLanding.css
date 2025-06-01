@@ -1,0 +1,350 @@
+ /* .dashboard-container {
+    background-color: #f5f7fa;
+    color: #34495e;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 40px;
+}
+
+.dashboard-title {
+    font-size: 32px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.dashboard-subtitle {
+    font-size: 16px;
+    margin-bottom: 30px;
+    color: #7f8c8d;
+}
+
+.dashboard-controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.year-buttons,
+.chart-type-buttons,
+.month-dropdown {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.year-button,
+.chart-button {
+    padding: 8px 16px;
+    background-color: #ddd;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #2c3e50;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.year-button.active,
+.chart-button.active {
+    background-color: #3498db;
+    color: white;
+}
+
+.month-dropdown select {
+    padding: 14px 14px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background-color: white;
+    color: #2c3e50;
+    cursor: pointer;
+    font-weight: 500;
+    transition: border 0.3s ease;
+    font-weight: bold;
+}
+
+.month-dropdown select:hover {
+    border-color: #3498db;
+}
+
+.charts-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+.chart-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.3s ease;
+}
+
+.chart-card:hover {
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+
+.chart-card h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+
+.dashboard-loading {
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    color: #7f8c8d;
+} 
+
+  */
+
+
+  /* Dashboard.css */
+
+.dashboard-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 1rem;
+    color: #2c3e50;
+  }
+  
+  .dashboard-subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    color: #7f8c8d;
+  }
+  
+  .dashboard-controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .year-buttons, .chart-type-buttons, .month-dropdown {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .year-button, .chart-button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #3498db;
+    background: white;
+    color: #3498db;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .year-button.active, .chart-button.active {
+    background: #3498db;
+    color: white;
+  }
+  
+  .month-dropdown select {
+    padding: 0.5rem;
+    border-radius: 8px;
+    border: 1px solid #bdc3c7;
+  }
+  
+  .dashboard-section {
+    margin-bottom: 3rem;
+  }
+  
+  .section-title {
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+    text-align: center;
+    color: #34495e;
+  }
+  
+  .chart-card h3 {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    color: #2c3e50;
+  }
+  
+  .full-width {
+    grid-column: span 3;
+  }
+  
+  .performance-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+  
+  .product-summary-card {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0,0.1)
+  }
+  
+  .product-summary-card.underperforming {
+    background: white;
+    border-top: 2px solid red;
+
+  }
+  .product-summary-card.topperformering{
+    border-top: 2px solid rgb(130, 216, 0);
+  } 
+  .product-summary strong {
+    font-size: 1.1rem;
+    color: #2c3e50;
+  }
+  
+  .product-summary p {
+    margin-top: 0.5rem;
+    color: #7f8c8d;
+  }
+  
+  /* Make it responsive */
+  @media (max-width: 768px) {
+    .charts-grid {
+      grid-template-columns: 1fr;
+    }
+    .performance-grid {
+      grid-template-columns: 1fr;
+    }
+    .dashboard-controls {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
+
+  /* yas code */
+  
+  .pie-revenue {
+    display: flex;
+    gap: 1rem; /* spacing between charts */
+    width: 100%;
+  }
+  
+  .pie-chart {
+    flex: 0 0 25%; /* 25% width */
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .revenue-chart {
+    flex: 0 0 75%; /* 75% width if pie exists */
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    
+  }
+  
+  .revenue-chart.full-width {
+    flex: 1 1 100%; /* 100% width if pie is not there */
+  }
+
+  .profit-aov {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 1rem; /* space between AOV and Profit charts */
+    width: 100%;
+  }
+  
+  .aov-chart {
+    flex: 0 0 46%; 
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .profit-chart {
+    flex: 0 0 46%; /* Half width */
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .aov-chart.full-width {
+    flex: 1 1 100%; /* Full width if no profit */
+  }
+
+
+  .charts-grid {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    margin-top: 1.5rem;
+  }
+  
+  .region-chart {
+    flex: 0 0 46%;
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .category-chart {
+    flex: 0 0 46%;
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  
+  .region-chart.full-width {
+    flex: 1 1 100%;
+  }
+  
+  
+  .performance-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+  
+  .product-summary-card {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0,0.1)
+  }
+  
+  .product-summary-card.underperforming {
+    background: white;
+    border-top: 2px solid red;
+
+  }
+  .product-summary-card.topperformering{
+    border-top: 2px solid rgb(130, 216, 0);
+  } 
+  .product-summary strong {
+    font-size: 1.1rem;
+    color: #2c3e50;
+  }
+  
+  .product-summary p {
+    margin-top: 0.5rem;
+    color: #7f8c8d;
+  }
+  
+  /* Make it responsive */
+  @media (max-width: 768px) {
+    .charts-grid {
+      grid-template-columns: 1fr;
+    }
+    .performance-grid {
+      grid-template-columns: 1fr;
+    }
+    .dashboard-controls {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  

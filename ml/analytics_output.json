@@ -1,0 +1,7179 @@
+{
+  "monthly_revenue": [
+    {
+      "year": 2020,
+      "month": "January",
+      "month_num": 1,
+      "total_revenue": 1098801.65
+    },
+    {
+      "year": 2020,
+      "month": "February",
+      "month_num": 2,
+      "total_revenue": 516964.47000000003
+    },
+    {
+      "year": 2020,
+      "month": "March",
+      "month_num": 3,
+      "total_revenue": 796886.95
+    },
+    {
+      "year": 2020,
+      "month": "April",
+      "month_num": 4,
+      "total_revenue": 833675.71
+    },
+    {
+      "year": 2020,
+      "month": "May",
+      "month_num": 5,
+      "total_revenue": 633661.96
+    },
+    {
+      "year": 2020,
+      "month": "June",
+      "month_num": 6,
+      "total_revenue": 740375.72
+    },
+    {
+      "year": 2020,
+      "month": "July",
+      "month_num": 7,
+      "total_revenue": 478391.55
+    },
+    {
+      "year": 2020,
+      "month": "August",
+      "month_num": 8,
+      "total_revenue": 740276.78
+    },
+    {
+      "year": 2020,
+      "month": "September",
+      "month_num": 9,
+      "total_revenue": 422114.28
+    },
+    {
+      "year": 2020,
+      "month": "October",
+      "month_num": 10,
+      "total_revenue": 913116.31
+    },
+    {
+      "year": 2020,
+      "month": "November",
+      "month_num": 11,
+      "total_revenue": 697946.86
+    },
+    {
+      "year": 2020,
+      "month": "December",
+      "month_num": 12,
+      "total_revenue": 501924.67
+    },
+    {
+      "year": 2021,
+      "month": "January",
+      "month_num": 1,
+      "total_revenue": 849119.34
+    },
+    {
+      "year": 2021,
+      "month": "February",
+      "month_num": 2,
+      "total_revenue": 624213.39
+    },
+    {
+      "year": 2021,
+      "month": "March",
+      "month_num": 3,
+      "total_revenue": 766459.23
+    },
+    {
+      "year": 2021,
+      "month": "April",
+      "month_num": 4,
+      "total_revenue": 1060092.57
+    },
+    {
+      "year": 2021,
+      "month": "May",
+      "month_num": 5,
+      "total_revenue": 623834.22
+    },
+    {
+      "year": 2021,
+      "month": "June",
+      "month_num": 6,
+      "total_revenue": 780445.48
+    },
+    {
+      "year": 2021,
+      "month": "July",
+      "month_num": 7,
+      "total_revenue": 702835.53
+    },
+    {
+      "year": 2021,
+      "month": "August",
+      "month_num": 8,
+      "total_revenue": 621453.19
+    },
+    {
+      "year": 2021,
+      "month": "September",
+      "month_num": 9,
+      "total_revenue": 617463.52
+    },
+    {
+      "year": 2021,
+      "month": "October",
+      "month_num": 10,
+      "total_revenue": 690111.49
+    },
+    {
+      "year": 2021,
+      "month": "November",
+      "month_num": 11,
+      "total_revenue": 573068.31
+    },
+    {
+      "year": 2021,
+      "month": "December",
+      "month_num": 12,
+      "total_revenue": 677330.47
+    },
+    {
+      "year": 2022,
+      "month": "January",
+      "month_num": 1,
+      "total_revenue": 1109009.54
+    },
+    {
+      "year": 2022,
+      "month": "February",
+      "month_num": 2,
+      "total_revenue": 454107.02
+    },
+    {
+      "year": 2022,
+      "month": "March",
+      "month_num": 3,
+      "total_revenue": 662214.77
+    },
+    {
+      "year": 2022,
+      "month": "April",
+      "month_num": 4,
+      "total_revenue": 633789.3
+    },
+    {
+      "year": 2022,
+      "month": "May",
+      "month_num": 5,
+      "total_revenue": 845961.35
+    },
+    {
+      "year": 2022,
+      "month": "June",
+      "month_num": 6,
+      "total_revenue": 653540.62
+    },
+    {
+      "year": 2022,
+      "month": "July",
+      "month_num": 7,
+      "total_revenue": 491453.98
+    },
+    {
+      "year": 2022,
+      "month": "August",
+      "month_num": 8,
+      "total_revenue": 779478.26
+    },
+    {
+      "year": 2022,
+      "month": "September",
+      "month_num": 9,
+      "total_revenue": 771095.12
+    },
+    {
+      "year": 2022,
+      "month": "October",
+      "month_num": 10,
+      "total_revenue": 728637.75
+    },
+    {
+      "year": 2022,
+      "month": "November",
+      "month_num": 11,
+      "total_revenue": 723831.36
+    },
+    {
+      "year": 2022,
+      "month": "December",
+      "month_num": 12,
+      "total_revenue": 557056.07
+    }
+  ],
+  "monthly_profit": [
+    {
+      "year": 2020,
+      "month": "January",
+      "month_num": 1,
+      "profit": 412995.53
+    },
+    {
+      "year": 2020,
+      "month": "February",
+      "month_num": 2,
+      "profit": 129797.65999999999
+    },
+    {
+      "year": 2020,
+      "month": "March",
+      "month_num": 3,
+      "profit": 244883.93000000002
+    },
+    {
+      "year": 2020,
+      "month": "April",
+      "month_num": 4,
+      "profit": 344706.36
+    },
+    {
+      "year": 2020,
+      "month": "May",
+      "month_num": 5,
+      "profit": 176032.56
+    },
+    {
+      "year": 2020,
+      "month": "June",
+      "month_num": 6,
+      "profit": 80570.84999999998
+    },
+    {
+      "year": 2020,
+      "month": "July",
+      "month_num": 7,
+      "profit": -25344.19000000001
+    },
+    {
+      "year": 2020,
+      "month": "August",
+      "month_num": 8,
+      "profit": 239937.76
+    },
+    {
+      "year": 2020,
+      "month": "September",
+      "month_num": 9,
+      "profit": 108712.51999999999
+    },
+    {
+      "year": 2020,
+      "month": "October",
+      "month_num": 10,
+      "profit": 249701.91
+    },
+    {
+      "year": 2020,
+      "month": "November",
+      "month_num": 11,
+      "profit": 197136.48
+    },
+    {
+      "year": 2020,
+      "month": "December",
+      "month_num": 12,
+      "profit": 112941.76000000001
+    },
+    {
+      "year": 2021,
+      "month": "January",
+      "month_num": 1,
+      "profit": 430549.43
+    },
+    {
+      "year": 2021,
+      "month": "February",
+      "month_num": 2,
+      "profit": 288771.77
+    },
+    {
+      "year": 2021,
+      "month": "March",
+      "month_num": 3,
+      "profit": 293052.39
+    },
+    {
+      "year": 2021,
+      "month": "April",
+      "month_num": 4,
+      "profit": 457051.36
+    },
+    {
+      "year": 2021,
+      "month": "May",
+      "month_num": 5,
+      "profit": 157115.00000000003
+    },
+    {
+      "year": 2021,
+      "month": "June",
+      "month_num": 6,
+      "profit": 223313.87000000002
+    },
+    {
+      "year": 2021,
+      "month": "July",
+      "month_num": 7,
+      "profit": 70178.22999999998
+    },
+    {
+      "year": 2021,
+      "month": "August",
+      "month_num": 8,
+      "profit": 122578.89000000003
+    },
+    {
+      "year": 2021,
+      "month": "September",
+      "month_num": 9,
+      "profit": 191763.13999999998
+    },
+    {
+      "year": 2021,
+      "month": "October",
+      "month_num": 10,
+      "profit": 184059.49
+    },
+    {
+      "year": 2021,
+      "month": "November",
+      "month_num": 11,
+      "profit": 243486.06999999998
+    },
+    {
+      "year": 2021,
+      "month": "December",
+      "month_num": 12,
+      "profit": 303366.43
+    },
+    {
+      "year": 2022,
+      "month": "January",
+      "month_num": 1,
+      "profit": 310310.64999999997
+    },
+    {
+      "year": 2022,
+      "month": "February",
+      "month_num": 2,
+      "profit": 117802.48999999999
+    },
+    {
+      "year": 2022,
+      "month": "March",
+      "month_num": 3,
+      "profit": 155480.82
+    },
+    {
+      "year": 2022,
+      "month": "April",
+      "month_num": 4,
+      "profit": 278662.31
+    },
+    {
+      "year": 2022,
+      "month": "May",
+      "month_num": 5,
+      "profit": 203071.87
+    },
+    {
+      "year": 2022,
+      "month": "June",
+      "month_num": 6,
+      "profit": 199804.9
+    },
+    {
+      "year": 2022,
+      "month": "July",
+      "month_num": 7,
+      "profit": -13881.95
+    },
+    {
+      "year": 2022,
+      "month": "August",
+      "month_num": 8,
+      "profit": 275627.11
+    },
+    {
+      "year": 2022,
+      "month": "September",
+      "month_num": 9,
+      "profit": 148156.84999999998
+    },
+    {
+      "year": 2022,
+      "month": "October",
+      "month_num": 10,
+      "profit": 291689.74
+    },
+    {
+      "year": 2022,
+      "month": "November",
+      "month_num": 11,
+      "profit": 280306.29000000004
+    },
+    {
+      "year": 2022,
+      "month": "December",
+      "month_num": 12,
+      "profit": 126062.15
+    }
+  ],
+  "avg_order_value": [
+    {
+      "year": 2020,
+      "month": "January",
+      "month_num": 1,
+      "avg_order_value": 27470.04125
+    },
+    {
+      "year": 2020,
+      "month": "February",
+      "month_num": 2,
+      "avg_order_value": 22476.716086956523
+    },
+    {
+      "year": 2020,
+      "month": "March",
+      "month_num": 3,
+      "avg_order_value": 27478.860344827586
+    },
+    {
+      "year": 2020,
+      "month": "April",
+      "month_num": 4,
+      "avg_order_value": 27789.190333333332
+    },
+    {
+      "year": 2020,
+      "month": "May",
+      "month_num": 5,
+      "avg_order_value": 31683.097999999998
+    },
+    {
+      "year": 2020,
+      "month": "June",
+      "month_num": 6,
+      "avg_order_value": 23883.087741935484
+    },
+    {
+      "year": 2020,
+      "month": "July",
+      "month_num": 7,
+      "avg_order_value": 19932.98125
+    },
+    {
+      "year": 2020,
+      "month": "August",
+      "month_num": 8,
+      "avg_order_value": 25526.78551724138
+    },
+    {
+      "year": 2020,
+      "month": "September",
+      "month_num": 9,
+      "avg_order_value": 21105.714
+    },
+    {
+      "year": 2020,
+      "month": "October",
+      "month_num": 10,
+      "avg_order_value": 27670.191212121215
+    },
+    {
+      "year": 2020,
+      "month": "November",
+      "month_num": 11,
+      "avg_order_value": 21810.839375
+    },
+    {
+      "year": 2020,
+      "month": "December",
+      "month_num": 12,
+      "avg_order_value": 18589.80259259259
+    },
+    {
+      "year": 2021,
+      "month": "January",
+      "month_num": 1,
+      "avg_order_value": 24260.552571428572
+    },
+    {
+      "year": 2021,
+      "month": "February",
+      "month_num": 2,
+      "avg_order_value": 24968.5356
+    },
+    {
+      "year": 2021,
+      "month": "March",
+      "month_num": 3,
+      "avg_order_value": 26429.628620689655
+    },
+    {
+      "year": 2021,
+      "month": "April",
+      "month_num": 4,
+      "avg_order_value": 29447.015833333335
+    },
+    {
+      "year": 2021,
+      "month": "May",
+      "month_num": 5,
+      "avg_order_value": 22279.79357142857
+    },
+    {
+      "year": 2021,
+      "month": "June",
+      "month_num": 6,
+      "avg_order_value": 28905.388148148148
+    },
+    {
+      "year": 2021,
+      "month": "July",
+      "month_num": 7,
+      "avg_order_value": 28113.4212
+    },
+    {
+      "year": 2021,
+      "month": "August",
+      "month_num": 8,
+      "avg_order_value": 23016.78481481481
+    },
+    {
+      "year": 2021,
+      "month": "September",
+      "month_num": 9,
+      "avg_order_value": 25727.646666666667
+    },
+    {
+      "year": 2021,
+      "month": "October",
+      "month_num": 10,
+      "avg_order_value": 30004.84739130435
+    },
+    {
+      "year": 2021,
+      "month": "November",
+      "month_num": 11,
+      "avg_order_value": 26048.559545454547
+    },
+    {
+      "year": 2021,
+      "month": "December",
+      "month_num": 12,
+      "avg_order_value": 26051.171923076923
+    },
+    {
+      "year": 2022,
+      "month": "January",
+      "month_num": 1,
+      "avg_order_value": 27725.2385
+    },
+    {
+      "year": 2022,
+      "month": "February",
+      "month_num": 2,
+      "avg_order_value": 18164.2808
+    },
+    {
+      "year": 2022,
+      "month": "March",
+      "month_num": 3,
+      "avg_order_value": 22834.99206896552
+    },
+    {
+      "year": 2022,
+      "month": "April",
+      "month_num": 4,
+      "avg_order_value": 21854.803448275863
+    },
+    {
+      "year": 2022,
+      "month": "May",
+      "month_num": 5,
+      "avg_order_value": 30212.905357142856
+    },
+    {
+      "year": 2022,
+      "month": "June",
+      "month_num": 6,
+      "avg_order_value": 29706.39181818182
+    },
+    {
+      "year": 2022,
+      "month": "July",
+      "month_num": 7,
+      "avg_order_value": 18201.999259259257
+    },
+    {
+      "year": 2022,
+      "month": "August",
+      "month_num": 8,
+      "avg_order_value": 23620.553333333333
+    },
+    {
+      "year": 2022,
+      "month": "September",
+      "month_num": 9,
+      "avg_order_value": 30843.804799999998
+    },
+    {
+      "year": 2022,
+      "month": "October",
+      "month_num": 10,
+      "avg_order_value": 26022.776785714286
+    },
+    {
+      "year": 2022,
+      "month": "November",
+      "month_num": 11,
+      "avg_order_value": 36191.568
+    },
+    {
+      "year": 2022,
+      "month": "December",
+      "month_num": 12,
+      "avg_order_value": 19208.829999999998
+    }
+  ],
+  "weekday_sales": [
+    {
+      "weekday": "Friday",
+      "total_revenue": 3790575.73
+    },
+    {
+      "weekday": "Monday",
+      "total_revenue": 3836692.8
+    },
+    {
+      "weekday": "Saturday",
+      "total_revenue": 3775044.07
+    },
+    {
+      "weekday": "Sunday",
+      "total_revenue": 3294772.18
+    },
+    {
+      "weekday": "Thursday",
+      "total_revenue": 3694375.23
+    },
+    {
+      "weekday": "Tuesday",
+      "total_revenue": 3831266.04
+    },
+    {
+      "weekday": "Wednesday",
+      "total_revenue": 3148012.74
+    }
+  ],
+  "customer_segmentation": {
+    "repeat_customers": 49,
+    "new_customers": 901
+  },
+  "top_selling_products_by_month": {
+    "2020-04": [
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "viverra",
+        "quantity": 98
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "justo sollicitudin",
+        "quantity": 96
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "quam fringilla",
+        "quantity": 96
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "vestibulum vestibulum",
+        "quantity": 91
+      }
+    ],
+    "2020-08": [
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "tempus",
+        "quantity": 122
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "aenean fermentum",
+        "quantity": 95
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "vestibulum sagittis",
+        "quantity": 92
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "etiam vel",
+        "quantity": 88
+      }
+    ],
+    "2020-12": [
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "ridiculus mus",
+        "quantity": 135
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "aenean",
+        "quantity": 97
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "amet",
+        "quantity": 93
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "curae duis",
+        "quantity": 72
+      }
+    ],
+    "2020-02": [
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "fusce posuere",
+        "quantity": 120
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "morbi non",
+        "quantity": 99
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "enim in",
+        "quantity": 98
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "aenean",
+        "quantity": 84
+      }
+    ],
+    "2020-01": [
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "ligula",
+        "quantity": 132
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "lobortis",
+        "quantity": 104
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "risus",
+        "quantity": 100
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "est",
+        "quantity": 92
+      }
+    ],
+    "2020-07": [
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "at",
+        "quantity": 99
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "vehicula condimentum",
+        "quantity": 98
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "donec ut",
+        "quantity": 95
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "id ligula",
+        "quantity": 90
+      }
+    ],
+    "2020-06": [
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "sed",
+        "quantity": 139
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "natoque",
+        "quantity": 100
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "ac",
+        "quantity": 87
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "erat",
+        "quantity": 87
+      }
+    ],
+    "2020-03": [
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "in",
+        "quantity": 164
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "semper",
+        "quantity": 137
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "ultrices",
+        "quantity": 92
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "neque aenean",
+        "quantity": 91
+      }
+    ],
+    "2020-05": [
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "vivamus",
+        "quantity": 97
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "integer",
+        "quantity": 96
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "suscipit",
+        "quantity": 96
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "rhoncus mauris",
+        "quantity": 90
+      }
+    ],
+    "2020-11": [
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "in",
+        "quantity": 129
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "purus sit",
+        "quantity": 99
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "eu",
+        "quantity": 92
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "eget",
+        "quantity": 80
+      }
+    ],
+    "2020-10": [
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "vel dapibus",
+        "quantity": 95
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "turpis a",
+        "quantity": 93
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "arcu",
+        "quantity": 88
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "augue vel",
+        "quantity": 88
+      }
+    ],
+    "2020-09": [
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "purus",
+        "quantity": 99
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "urna ut",
+        "quantity": 95
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "sodales sed",
+        "quantity": 94
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "ut rhoncus",
+        "quantity": 86
+      }
+    ],
+    "2021-04": [
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "risus",
+        "quantity": 95
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "posuere felis",
+        "quantity": 91
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "urna pretium",
+        "quantity": 89
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "sit",
+        "quantity": 88
+      }
+    ],
+    "2021-08": [
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "ac",
+        "quantity": 142
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "proin",
+        "quantity": 99
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "id sapien",
+        "quantity": 95
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "consectetuer",
+        "quantity": 91
+      }
+    ],
+    "2021-12": [
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "accumsan odio",
+        "quantity": 98
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "duis aliquam",
+        "quantity": 96
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "consequat",
+        "quantity": 92
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "ligula pellentesque",
+        "quantity": 92
+      }
+    ],
+    "2021-02": [
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "donec",
+        "quantity": 100
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "sit amet",
+        "quantity": 99
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "et ultrices",
+        "quantity": 98
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "tincidunt",
+        "quantity": 88
+      }
+    ],
+    "2021-01": [
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "hac",
+        "quantity": 99
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "tristique tortor",
+        "quantity": 91
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "tempor convallis",
+        "quantity": 76
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "ut mauris",
+        "quantity": 76
+      }
+    ],
+    "2021-07": [
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "praesent",
+        "quantity": 99
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "massa",
+        "quantity": 95
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "curabitur",
+        "quantity": 87
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "amet",
+        "quantity": 85
+      }
+    ],
+    "2021-06": [
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "vestibulum",
+        "quantity": 176
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "ultrices",
+        "quantity": 97
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "amet cursus",
+        "quantity": 90
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "nam",
+        "quantity": 87
+      }
+    ],
+    "2021-03": [
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "nisi",
+        "quantity": 140
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "faucibus",
+        "quantity": 100
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "nunc",
+        "quantity": 98
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "ante",
+        "quantity": 97
+      }
+    ],
+    "2021-05": [
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "at",
+        "quantity": 100
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "ut",
+        "quantity": 98
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "vel enim",
+        "quantity": 85
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "nec euismod",
+        "quantity": 83
+      }
+    ],
+    "2021-11": [
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "posuere",
+        "quantity": 98
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "sed ante",
+        "quantity": 95
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "integer",
+        "quantity": 93
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "dictumst",
+        "quantity": 88
+      }
+    ],
+    "2021-10": [
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "eu",
+        "quantity": 94
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "sit",
+        "quantity": 92
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "justo",
+        "quantity": 84
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "sociis natoque",
+        "quantity": 83
+      }
+    ],
+    "2021-09": [
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "id",
+        "quantity": 198
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "sed augue",
+        "quantity": 99
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "ante",
+        "quantity": 95
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "vulputate",
+        "quantity": 93
+      }
+    ],
+    "2022-04": [
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "euismod",
+        "quantity": 157
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "auctor gravida",
+        "quantity": 100
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "posuere cubilia",
+        "quantity": 91
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "cubilia curae",
+        "quantity": 88
+      }
+    ],
+    "2022-08": [
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "odio porttitor",
+        "quantity": 149
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "amet",
+        "quantity": 124
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "mi in",
+        "quantity": 100
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "sit",
+        "quantity": 100
+      }
+    ],
+    "2022-12": [
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "morbi",
+        "quantity": 96
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "pretium iaculis",
+        "quantity": 93
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "donec",
+        "quantity": 91
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "at",
+        "quantity": 89
+      }
+    ],
+    "2022-02": [
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "ligula",
+        "quantity": 83
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "id",
+        "quantity": 79
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "in blandit",
+        "quantity": 78
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "arcu sed",
+        "quantity": 74
+      }
+    ],
+    "2022-01": [
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "nunc vestibulum",
+        "quantity": 99
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "aenean lectus",
+        "quantity": 94
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "sociis",
+        "quantity": 92
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "sit amet",
+        "quantity": 91
+      }
+    ],
+    "2022-07": [
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "elementum",
+        "quantity": 136
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "eu",
+        "quantity": 135
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "scelerisque mauris",
+        "quantity": 98
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "ipsum dolor",
+        "quantity": 81
+      }
+    ],
+    "2022-06": [
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "in est",
+        "quantity": 98
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "pede justo",
+        "quantity": 98
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "enim",
+        "quantity": 97
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "ante",
+        "quantity": 92
+      }
+    ],
+    "2022-03": [
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "primis",
+        "quantity": 99
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "diam",
+        "quantity": 98
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "sollicitudin ut",
+        "quantity": 94
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "eu sapien",
+        "quantity": 93
+      }
+    ],
+    "2022-05": [
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "consectetuer adipiscing",
+        "quantity": 94
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "quis odio",
+        "quantity": 94
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "dictumst",
+        "quantity": 91
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "in",
+        "quantity": 88
+      }
+    ],
+    "2022-11": [
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "tortor eu",
+        "quantity": 100
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "nunc proin",
+        "quantity": 94
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "lorem",
+        "quantity": 92
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "faucibus cursus",
+        "quantity": 90
+      }
+    ],
+    "2022-10": [
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "donec vitae",
+        "quantity": 99
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "volutpat quam",
+        "quantity": 92
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "semper rutrum",
+        "quantity": 89
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "nulla quisque",
+        "quantity": 85
+      }
+    ],
+    "2022-09": [
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "vestibulum sit",
+        "quantity": 94
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "fusce",
+        "quantity": 92
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "morbi sem",
+        "quantity": 91
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "nunc",
+        "quantity": 91
+      }
+    ]
+  },
+  "underperforming_products_by_month": {
+    "2020-04": [
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "nisi",
+        "quantity": 1
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "ligula vehicula",
+        "quantity": 3
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "odio consequat",
+        "quantity": 9
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "sapien",
+        "quantity": 15
+      }
+    ],
+    "2020-08": [
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "sapien",
+        "quantity": 2
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "vulputate luctus",
+        "quantity": 3
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "eu est",
+        "quantity": 10
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "faucibus cursus",
+        "quantity": 13
+      }
+    ],
+    "2020-12": [
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "habitasse",
+        "quantity": 3
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "nulla",
+        "quantity": 8
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "aliquam",
+        "quantity": 9
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "ante ipsum",
+        "quantity": 10
+      }
+    ],
+    "2020-02": [
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "blandit ultrices",
+        "quantity": 13
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "cursus urna",
+        "quantity": 15
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "orci luctus",
+        "quantity": 16
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "maecenas",
+        "quantity": 21
+      }
+    ],
+    "2020-01": [
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "cras",
+        "quantity": 4
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "libero",
+        "quantity": 5
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "non velit",
+        "quantity": 7
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "ante vel",
+        "quantity": 8
+      }
+    ],
+    "2020-07": [
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "lectus",
+        "quantity": 1
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "nullam",
+        "quantity": 6
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "scelerisque",
+        "quantity": 15
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "sapien in",
+        "quantity": 24
+      }
+    ],
+    "2020-06": [
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "quis",
+        "quantity": 1
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "sociis natoque",
+        "quantity": 8
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "suspendisse",
+        "quantity": 12
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "est phasellus",
+        "quantity": 12
+      }
+    ],
+    "2020-03": [
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "cum sociis",
+        "quantity": 1
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "blandit",
+        "quantity": 5
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "sed tristique",
+        "quantity": 5
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "consequat ut",
+        "quantity": 6
+      }
+    ],
+    "2020-05": [
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "potenti",
+        "quantity": 4
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "volutpat eleifend",
+        "quantity": 21
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "diam vitae",
+        "quantity": 26
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "nec dui",
+        "quantity": 27
+      }
+    ],
+    "2020-11": [
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "tortor",
+        "quantity": 2
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "pede",
+        "quantity": 3
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "sed lacus",
+        "quantity": 5
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "ultrices posuere",
+        "quantity": 9
+      }
+    ],
+    "2020-10": [
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "in hac",
+        "quantity": 2
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "lorem",
+        "quantity": 4
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "adipiscing elit",
+        "quantity": 11
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "augue",
+        "quantity": 17
+      }
+    ],
+    "2020-09": [
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "lorem id",
+        "quantity": 2
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "malesuada in",
+        "quantity": 4
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "eleifend pede",
+        "quantity": 5
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "eget",
+        "quantity": 7
+      }
+    ],
+    "2021-04": [
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "vivamus",
+        "quantity": 3
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "pede",
+        "quantity": 3
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "amet cursus",
+        "quantity": 6
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "in hac",
+        "quantity": 6
+      }
+    ],
+    "2021-08": [
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "cubilia curae",
+        "quantity": 5
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "erat eros",
+        "quantity": 5
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "dictumst",
+        "quantity": 8
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "dolor",
+        "quantity": 8
+      }
+    ],
+    "2021-12": [
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "aenean",
+        "quantity": 1
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "cursus id",
+        "quantity": 4
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "felis sed",
+        "quantity": 6
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "eleifend",
+        "quantity": 8
+      }
+    ],
+    "2021-02": [
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "convallis morbi",
+        "quantity": 1
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "odio donec",
+        "quantity": 5
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "ornare imperdiet",
+        "quantity": 6
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "posuere cubilia",
+        "quantity": 14
+      }
+    ],
+    "2021-01": [
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "in quis",
+        "quantity": 4
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "quis",
+        "quantity": 5
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "sit",
+        "quantity": 8
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "ut erat",
+        "quantity": 10
+      }
+    ],
+    "2021-07": [
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "tristique",
+        "quantity": 9
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "iaculis congue",
+        "quantity": 13
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "eu massa",
+        "quantity": 13
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "sed",
+        "quantity": 14
+      }
+    ],
+    "2021-06": [
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "donec",
+        "quantity": 3
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "eros",
+        "quantity": 8
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "vulputate",
+        "quantity": 10
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "sapien",
+        "quantity": 12
+      }
+    ],
+    "2021-03": [
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "mi nulla",
+        "quantity": 1
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "sagittis dui",
+        "quantity": 1
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "montes",
+        "quantity": 12
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "blandit",
+        "quantity": 15
+      }
+    ],
+    "2021-05": [
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "nunc",
+        "quantity": 3
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "vestibulum sed",
+        "quantity": 8
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "fusce",
+        "quantity": 9
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "potenti",
+        "quantity": 21
+      }
+    ],
+    "2021-11": [
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "dignissim",
+        "quantity": 1
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "lectus vestibulum",
+        "quantity": 2
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "massa",
+        "quantity": 15
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "sapien varius",
+        "quantity": 18
+      }
+    ],
+    "2021-10": [
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "sed",
+        "quantity": 3
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "felis",
+        "quantity": 5
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "orci",
+        "quantity": 5
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "cursus urna",
+        "quantity": 9
+      }
+    ],
+    "2021-09": [
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "rutrum at",
+        "quantity": 2
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "nulla nunc",
+        "quantity": 4
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "vel",
+        "quantity": 9
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "quisque ut",
+        "quantity": 11
+      }
+    ],
+    "2022-04": [
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "quisque",
+        "quantity": 1
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "augue",
+        "quantity": 2
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "in hac",
+        "quantity": 2
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_name": "pellentesque volutpat",
+        "quantity": 4
+      }
+    ],
+    "2022-08": [
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "eleifend pede",
+        "quantity": 1
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "amet justo",
+        "quantity": 14
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "posuere",
+        "quantity": 16
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_name": "in",
+        "quantity": 18
+      }
+    ],
+    "2022-12": [
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "penatibus et",
+        "quantity": 3
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "pellentesque",
+        "quantity": 5
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "nibh in",
+        "quantity": 6
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_name": "semper est",
+        "quantity": 9
+      }
+    ],
+    "2022-02": [
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "etiam vel",
+        "quantity": 3
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "pharetra",
+        "quantity": 4
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "rutrum neque",
+        "quantity": 8
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_name": "nascetur",
+        "quantity": 10
+      }
+    ],
+    "2022-01": [
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "feugiat non",
+        "quantity": 5
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "velit vivamus",
+        "quantity": 5
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "sit",
+        "quantity": 5
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_name": "nulla",
+        "quantity": 5
+      }
+    ],
+    "2022-07": [
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "sit amet",
+        "quantity": 3
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "quis",
+        "quantity": 5
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "vel enim",
+        "quantity": 6
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_name": "vestibulum",
+        "quantity": 13
+      }
+    ],
+    "2022-06": [
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "facilisi",
+        "quantity": 7
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "amet sapien",
+        "quantity": 8
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "est phasellus",
+        "quantity": 10
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_name": "sem",
+        "quantity": 38
+      }
+    ],
+    "2022-03": [
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "nec sem",
+        "quantity": 4
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "erat",
+        "quantity": 5
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "praesent",
+        "quantity": 9
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_name": "potenti",
+        "quantity": 12
+      }
+    ],
+    "2022-05": [
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "ut",
+        "quantity": 8
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "sit",
+        "quantity": 21
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "semper",
+        "quantity": 22
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_name": "pellentesque at",
+        "quantity": 28
+      }
+    ],
+    "2022-11": [
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "consequat",
+        "quantity": 2
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "consectetuer",
+        "quantity": 5
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "pede",
+        "quantity": 6
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_name": "rhoncus",
+        "quantity": 9
+      }
+    ],
+    "2022-10": [
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "quis justo",
+        "quantity": 4
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "diam cras",
+        "quantity": 6
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "suscipit ligula",
+        "quantity": 7
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_name": "lacus morbi",
+        "quantity": 9
+      }
+    ],
+    "2022-09": [
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "nulla pede",
+        "quantity": 1
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "id",
+        "quantity": 15
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "est congue",
+        "quantity": 18
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_name": "quis lectus",
+        "quantity": 21
+      }
+    ]
+  },
+  "category_revenue_by_month": {
+    "2020-04": [
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "sports equipment",
+        "total_revenue": 175163.69
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "kitchen appliances",
+        "total_revenue": 146960.76
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "beauty products",
+        "total_revenue": 139489.22
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "pet supplies",
+        "total_revenue": 110297.44
+      }
+    ],
+    "2020-08": [
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "outdoor gear",
+        "total_revenue": 141174.28
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "kitchen appliances",
+        "total_revenue": 136875.21
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "pet supplies",
+        "total_revenue": 127951.43
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "sports equipment",
+        "total_revenue": 106327.12
+      }
+    ],
+    "2020-12": [
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "home decor",
+        "total_revenue": 116287.57
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "office supplies",
+        "total_revenue": 110731.07
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "electronics",
+        "total_revenue": 58602.08
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "kitchen appliances",
+        "total_revenue": 47015.97
+      }
+    ],
+    "2020-02": [
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "kitchen appliances",
+        "total_revenue": 163272.47999999998
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "toys",
+        "total_revenue": 151991.15
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "electronics",
+        "total_revenue": 69704.08
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "clothing",
+        "total_revenue": 53760.51
+      }
+    ],
+    "2020-01": [
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "electronics",
+        "total_revenue": 289567.31
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "toys",
+        "total_revenue": 222115.3
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "clothing",
+        "total_revenue": 141558.1
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "sports equipment",
+        "total_revenue": 131999.97
+      }
+    ],
+    "2020-07": [
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "toys",
+        "total_revenue": 113856.31999999999
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "office supplies",
+        "total_revenue": 102856.69
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "outdoor gear",
+        "total_revenue": 69499.92
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "pet supplies",
+        "total_revenue": 65717.7
+      }
+    ],
+    "2020-06": [
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "kitchen appliances",
+        "total_revenue": 132359.54
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "office supplies",
+        "total_revenue": 118364.16999999998
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "beauty products",
+        "total_revenue": 101849.72
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "home decor",
+        "total_revenue": 92972.38
+      }
+    ],
+    "2020-03": [
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "home decor",
+        "total_revenue": 194133.78
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "pet supplies",
+        "total_revenue": 142990.72999999998
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "electronics",
+        "total_revenue": 113138.69
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "sports equipment",
+        "total_revenue": 112203.79000000001
+      }
+    ],
+    "2020-05": [
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "outdoor gear",
+        "total_revenue": 172754.87
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "pet supplies",
+        "total_revenue": 108401.8
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "kitchen appliances",
+        "total_revenue": 102956.73000000001
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "clothing",
+        "total_revenue": 84841.01000000001
+      }
+    ],
+    "2020-11": [
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "electronics",
+        "total_revenue": 167574.14
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "toys",
+        "total_revenue": 147191.32
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "clothing",
+        "total_revenue": 105962.47
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "sports equipment",
+        "total_revenue": 63767.13
+      }
+    ],
+    "2020-10": [
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "outdoor gear",
+        "total_revenue": 186510.89
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "clothing",
+        "total_revenue": 176382.96
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "home decor",
+        "total_revenue": 118121.07
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "kitchen appliances",
+        "total_revenue": 109982.29000000001
+      }
+    ],
+    "2020-09": [
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "clothing",
+        "total_revenue": 104088.36
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "toys",
+        "total_revenue": 91218.33
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "electronics",
+        "total_revenue": 86483.67
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "outdoor gear",
+        "total_revenue": 84387.64
+      }
+    ],
+    "2021-04": [
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "office supplies",
+        "total_revenue": 175551.65000000002
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "electronics",
+        "total_revenue": 172617.08000000002
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "home decor",
+        "total_revenue": 152406.13
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "clothing",
+        "total_revenue": 147512.8
+      }
+    ],
+    "2021-08": [
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "home decor",
+        "total_revenue": 144386.36
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "outdoor gear",
+        "total_revenue": 139680.13
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "clothing",
+        "total_revenue": 107172.38
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "kitchen appliances",
+        "total_revenue": 86367.53
+      }
+    ],
+    "2021-12": [
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "sports equipment",
+        "total_revenue": 118099.53
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "home decor",
+        "total_revenue": 116930.32
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "clothing",
+        "total_revenue": 104362.25
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "electronics",
+        "total_revenue": 71999.36
+      }
+    ],
+    "2021-02": [
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "clothing",
+        "total_revenue": 143549.11
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "sports equipment",
+        "total_revenue": 126883.20000000001
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "kitchen appliances",
+        "total_revenue": 92149.85
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "home decor",
+        "total_revenue": 81060.67
+      }
+    ],
+    "2021-01": [
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "pet supplies",
+        "total_revenue": 179492.89
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "outdoor gear",
+        "total_revenue": 163826.71
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "beauty products",
+        "total_revenue": 115999.07
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "sports equipment",
+        "total_revenue": 109833.29
+      }
+    ],
+    "2021-07": [
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "home decor",
+        "total_revenue": 204701.21
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "outdoor gear",
+        "total_revenue": 160049.41
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "pet supplies",
+        "total_revenue": 104384.1
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "beauty products",
+        "total_revenue": 99825.09
+      }
+    ],
+    "2021-06": [
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "clothing",
+        "total_revenue": 218136.50000000003
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "electronics",
+        "total_revenue": 163180.55
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "office supplies",
+        "total_revenue": 152142.12
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "pet supplies",
+        "total_revenue": 97089.18000000001
+      }
+    ],
+    "2021-03": [
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "clothing",
+        "total_revenue": 139140.95
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "pet supplies",
+        "total_revenue": 124707.19
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "home decor",
+        "total_revenue": 118941.54
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "kitchen appliances",
+        "total_revenue": 101142.5
+      }
+    ],
+    "2021-05": [
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "home decor",
+        "total_revenue": 170888.66999999998
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "beauty products",
+        "total_revenue": 87658.91
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "sports equipment",
+        "total_revenue": 86234.12
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "kitchen appliances",
+        "total_revenue": 84611.2
+      }
+    ],
+    "2021-11": [
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "beauty products",
+        "total_revenue": 100436.81
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "home decor",
+        "total_revenue": 99233.9
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "electronics",
+        "total_revenue": 93588.74
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "kitchen appliances",
+        "total_revenue": 92616.19
+      }
+    ],
+    "2021-10": [
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "sports equipment",
+        "total_revenue": 166551.1
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "office supplies",
+        "total_revenue": 157507.11
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "toys",
+        "total_revenue": 92989.20999999999
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "electronics",
+        "total_revenue": 65741.59
+      }
+    ],
+    "2021-09": [
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "clothing",
+        "total_revenue": 143297.03
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "sports equipment",
+        "total_revenue": 113533.72
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "kitchen appliances",
+        "total_revenue": 112163.84
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "beauty products",
+        "total_revenue": 105434.76000000001
+      }
+    ],
+    "2022-04": [
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "kitchen appliances",
+        "total_revenue": 122681.56
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "pet supplies",
+        "total_revenue": 104410.2
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "office supplies",
+        "total_revenue": 96892.94
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "home decor",
+        "total_revenue": 92682.09999999999
+      }
+    ],
+    "2022-08": [
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "outdoor gear",
+        "total_revenue": 238802.75
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "toys",
+        "total_revenue": 144631.62
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "clothing",
+        "total_revenue": 84346.04
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "electronics",
+        "total_revenue": 68809.78
+      }
+    ],
+    "2022-12": [
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "home decor",
+        "total_revenue": 209649.38999999998
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "beauty products",
+        "total_revenue": 161982.8
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "toys",
+        "total_revenue": 47409.57
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "office supplies",
+        "total_revenue": 45216.840000000004
+      }
+    ],
+    "2022-02": [
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "beauty products",
+        "total_revenue": 147688.94
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "office supplies",
+        "total_revenue": 86365.0
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "sports equipment",
+        "total_revenue": 61014.58
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "clothing",
+        "total_revenue": 55158.05
+      }
+    ],
+    "2022-01": [
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "outdoor gear",
+        "total_revenue": 205695.53
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "kitchen appliances",
+        "total_revenue": 196263.37
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "beauty products",
+        "total_revenue": 146935.37
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "sports equipment",
+        "total_revenue": 134195.72
+      }
+    ],
+    "2022-07": [
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "electronics",
+        "total_revenue": 117767.58
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "office supplies",
+        "total_revenue": 100265.3
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "outdoor gear",
+        "total_revenue": 78513.3
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "beauty products",
+        "total_revenue": 59562.25
+      }
+    ],
+    "2022-06": [
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "sports equipment",
+        "total_revenue": 170083.4
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "toys",
+        "total_revenue": 131954.87
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "office supplies",
+        "total_revenue": 101210.32
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "pet supplies",
+        "total_revenue": 88465.56
+      }
+    ],
+    "2022-03": [
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "sports equipment",
+        "total_revenue": 188478.05
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "pet supplies",
+        "total_revenue": 118084.89
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "clothing",
+        "total_revenue": 74578.86
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "electronics",
+        "total_revenue": 68667.36
+      }
+    ],
+    "2022-05": [
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "toys",
+        "total_revenue": 281330.97
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "sports equipment",
+        "total_revenue": 145619.94
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "office supplies",
+        "total_revenue": 111740.58
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "outdoor gear",
+        "total_revenue": 87587.88
+      }
+    ],
+    "2022-11": [
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "toys",
+        "total_revenue": 204513.65
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "kitchen appliances",
+        "total_revenue": 143373.3
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "sports equipment",
+        "total_revenue": 128439.58
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "office supplies",
+        "total_revenue": 78585.16
+      }
+    ],
+    "2022-10": [
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "beauty products",
+        "total_revenue": 183218.19999999998
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "outdoor gear",
+        "total_revenue": 135447.96
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "office supplies",
+        "total_revenue": 129196.09000000001
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "clothing",
+        "total_revenue": 87989.79999999999
+      }
+    ],
+    "2022-09": [
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "home decor",
+        "total_revenue": 212600.78
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "kitchen appliances",
+        "total_revenue": 178734.41
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "clothing",
+        "total_revenue": 113489.36000000002
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "outdoor gear",
+        "total_revenue": 93834.57
+      }
+    ]
+  },
+  "underperforming_categories_by_month": {
+    "2020-04": [
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "office supplies",
+        "total_revenue": 2082.54
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "outdoor gear",
+        "total_revenue": 11352.71
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "electronics",
+        "total_revenue": 27201.260000000002
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "clothing",
+        "total_revenue": 40555.25
+      }
+    ],
+    "2020-08": [
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "clothing",
+        "total_revenue": 9601.11
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "home decor",
+        "total_revenue": 35652.0
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "electronics",
+        "total_revenue": 89761.6
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "office supplies",
+        "total_revenue": 92934.03
+      }
+    ],
+    "2020-12": [
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "clothing",
+        "total_revenue": 13935.9
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "beauty products",
+        "total_revenue": 16400.51
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "sports equipment",
+        "total_revenue": 24977.04
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "pet supplies",
+        "total_revenue": 28539.79
+      }
+    ],
+    "2020-02": [
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "pet supplies",
+        "total_revenue": 1008.93
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "home decor",
+        "total_revenue": 3923.6
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "beauty products",
+        "total_revenue": 11345.25
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "sports equipment",
+        "total_revenue": 14730.64
+      }
+    ],
+    "2020-01": [
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "pet supplies",
+        "total_revenue": 25385.49
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "office supplies",
+        "total_revenue": 34977.759999999995
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "home decor",
+        "total_revenue": 55577.6
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "kitchen appliances",
+        "total_revenue": 56655.70999999999
+      }
+    ],
+    "2020-07": [
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "clothing",
+        "total_revenue": 2722.2
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "sports equipment",
+        "total_revenue": 7602.96
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "electronics",
+        "total_revenue": 29934.91
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "beauty products",
+        "total_revenue": 30684.57
+      }
+    ],
+    "2020-06": [
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "pet supplies",
+        "total_revenue": 10004.25
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "outdoor gear",
+        "total_revenue": 36448.66
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "toys",
+        "total_revenue": 49287.42
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "sports equipment",
+        "total_revenue": 55281.100000000006
+      }
+    ],
+    "2020-03": [
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "outdoor gear",
+        "total_revenue": 936.05
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "toys",
+        "total_revenue": 8491.84
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "kitchen appliances",
+        "total_revenue": 25690.01
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "clothing",
+        "total_revenue": 60108.67
+      }
+    ],
+    "2020-05": [
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "toys",
+        "total_revenue": 2047.6
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "home decor",
+        "total_revenue": 10377.24
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "sports equipment",
+        "total_revenue": 20828.34
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "office supplies",
+        "total_revenue": 49267.36
+      }
+    ],
+    "2020-11": [
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "outdoor gear",
+        "total_revenue": 349.65
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "office supplies",
+        "total_revenue": 23094.78
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "home decor",
+        "total_revenue": 26184.100000000002
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "pet supplies",
+        "total_revenue": 41301.04
+      }
+    ],
+    "2020-10": [
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "beauty products",
+        "total_revenue": 25547.620000000003
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "office supplies",
+        "total_revenue": 58455.64
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "pet supplies",
+        "total_revenue": 67325.48000000001
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "electronics",
+        "total_revenue": 78567.26000000001
+      }
+    ],
+    "2020-09": [
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "home decor",
+        "total_revenue": 10996.6
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "pet supplies",
+        "total_revenue": 20525.62
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "sports equipment",
+        "total_revenue": 24414.059999999998
+      }
+    ],
+    "2021-04": [
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "kitchen appliances",
+        "total_revenue": 20435.52
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "outdoor gear",
+        "total_revenue": 31937.66
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "toys",
+        "total_revenue": 59907.7
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "pet supplies",
+        "total_revenue": 67088.77
+      }
+    ],
+    "2021-08": [
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "office supplies",
+        "total_revenue": 17848.01
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "beauty products",
+        "total_revenue": 28625.690000000002
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "sports equipment",
+        "total_revenue": 29839.55
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "electronics",
+        "total_revenue": 30390.0
+      }
+    ],
+    "2021-12": [
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "toys",
+        "total_revenue": 771.34
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "beauty products",
+        "total_revenue": 41730.07
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "kitchen appliances",
+        "total_revenue": 43356.18
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "office supplies",
+        "total_revenue": 52793.63
+      }
+    ],
+    "2021-02": [
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "electronics",
+        "total_revenue": 2748.6
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "outdoor gear",
+        "total_revenue": 20071.1
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "pet supplies",
+        "total_revenue": 20890.72
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "toys",
+        "total_revenue": 22638.15
+      }
+    ],
+    "2021-01": [
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "clothing",
+        "total_revenue": 24854.68
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "kitchen appliances",
+        "total_revenue": 31810.15
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "electronics",
+        "total_revenue": 35484.56
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "office supplies",
+        "total_revenue": 41129.05
+      }
+    ],
+    "2021-07": [
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "electronics",
+        "total_revenue": 11517.12
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "sports equipment",
+        "total_revenue": 13267.95
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "office supplies",
+        "total_revenue": 19365.15
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "toys",
+        "total_revenue": 34410.43
+      }
+    ],
+    "2021-06": [
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "toys",
+        "total_revenue": 3045.5
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "kitchen appliances",
+        "total_revenue": 19667.94
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "sports equipment",
+        "total_revenue": 20505.870000000003
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "beauty products",
+        "total_revenue": 22283.04
+      }
+    ],
+    "2021-03": [
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "beauty products",
+        "total_revenue": 16679.67
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "sports equipment",
+        "total_revenue": 29153.519999999997
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "outdoor gear",
+        "total_revenue": 37621.53
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "electronics",
+        "total_revenue": 49639.3
+      }
+    ],
+    "2021-05": [
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "toys",
+        "total_revenue": 4597.92
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "electronics",
+        "total_revenue": 6130.08
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "pet supplies",
+        "total_revenue": 28945.5
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "outdoor gear",
+        "total_revenue": 31140.899999999998
+      }
+    ],
+    "2021-11": [
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "clothing",
+        "total_revenue": 12519.69
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "pet supplies",
+        "total_revenue": 21505.77
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "toys",
+        "total_revenue": 44035.42
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "outdoor gear",
+        "total_revenue": 53465.8
+      }
+    ],
+    "2021-10": [
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "beauty products",
+        "total_revenue": 21899.64
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "outdoor gear",
+        "total_revenue": 24432.11
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "pet supplies",
+        "total_revenue": 48070.75
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "home decor",
+        "total_revenue": 53748.87
+      }
+    ],
+    "2021-09": [
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "home decor",
+        "total_revenue": 16182.720000000001
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "toys",
+        "total_revenue": 16566.45
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "electronics",
+        "total_revenue": 27674.6
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "outdoor gear",
+        "total_revenue": 31152.9
+      }
+    ],
+    "2022-04": [
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "beauty products",
+        "total_revenue": 14936.68
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "sports equipment",
+        "total_revenue": 16048.619999999999
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "clothing",
+        "total_revenue": 17646.920000000002
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "product_category": "outdoor gear",
+        "total_revenue": 23695.18
+      }
+    ],
+    "2022-08": [
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "beauty products",
+        "total_revenue": 6207.12
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "sports equipment",
+        "total_revenue": 28369.0
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "kitchen appliances",
+        "total_revenue": 35241.82
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "product_category": "pet supplies",
+        "total_revenue": 49578.780000000006
+      }
+    ],
+    "2022-12": [
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "kitchen appliances",
+        "total_revenue": 8028.45
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "clothing",
+        "total_revenue": 20088.41
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "pet supplies",
+        "total_revenue": 23625.84
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "product_category": "sports equipment",
+        "total_revenue": 41054.77
+      }
+    ],
+    "2022-02": [
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "toys",
+        "total_revenue": 9935.11
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "outdoor gear",
+        "total_revenue": 10783.76
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "home decor",
+        "total_revenue": 13423.76
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "product_category": "pet supplies",
+        "total_revenue": 33911.42
+      }
+    ],
+    "2022-01": [
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "toys",
+        "total_revenue": 47613.450000000004
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "home decor",
+        "total_revenue": 61103.67
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "pet supplies",
+        "total_revenue": 64594.18
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "product_category": "office supplies",
+        "total_revenue": 74038.44
+      }
+    ],
+    "2022-07": [
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "sports equipment",
+        "total_revenue": 8890.05
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "toys",
+        "total_revenue": 10682.98
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "kitchen appliances",
+        "total_revenue": 10799.23
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "product_category": "pet supplies",
+        "total_revenue": 28539.769999999997
+      }
+    ],
+    "2022-06": [
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "clothing",
+        "total_revenue": 2923.34
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "kitchen appliances",
+        "total_revenue": 9225.880000000001
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "home decor",
+        "total_revenue": 17319.94
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "product_category": "electronics",
+        "total_revenue": 20727.98
+      }
+    ],
+    "2022-03": [
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "home decor",
+        "total_revenue": 6598.68
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "outdoor gear",
+        "total_revenue": 28718.62
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "toys",
+        "total_revenue": 56054.62
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "product_category": "beauty products",
+        "total_revenue": 58408.2
+      }
+    ],
+    "2022-05": [
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "beauty products",
+        "total_revenue": 15903.81
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "kitchen appliances",
+        "total_revenue": 23791.2
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "clothing",
+        "total_revenue": 29729.68
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "product_category": "electronics",
+        "total_revenue": 64788.32
+      }
+    ],
+    "2022-11": [
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "pet supplies",
+        "total_revenue": 26066.39
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "electronics",
+        "total_revenue": 35998.27
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "clothing",
+        "total_revenue": 49950.18
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "product_category": "beauty products",
+        "total_revenue": 56904.829999999994
+      }
+    ],
+    "2022-10": [
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "electronics",
+        "total_revenue": 5333.68
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "pet supplies",
+        "total_revenue": 5576.64
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "sports equipment",
+        "total_revenue": 23943.37
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "product_category": "kitchen appliances",
+        "total_revenue": 30168.88
+      }
+    ],
+    "2022-09": [
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "toys",
+        "total_revenue": 732.91
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "sports equipment",
+        "total_revenue": 14356.16
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "beauty products",
+        "total_revenue": 24880.57
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "product_category": "electronics",
+        "total_revenue": 54271.880000000005
+      }
+    ]
+  },
+  "region_sales_by_month": {
+    "2020-04": [
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "region": "Borivali",
+        "total_revenue": 175937.63
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "region": "Lower Parel",
+        "total_revenue": 130350.54
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "region": "Bhandup",
+        "total_revenue": 117364.82
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "region": "Vile Parle",
+        "total_revenue": 78262.40999999999
+      }
+    ],
+    "2020-08": [
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "region": "Borivali",
+        "total_revenue": 118532.81
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "region": "Bandra",
+        "total_revenue": 103381.52
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "region": "Sion",
+        "total_revenue": 101226.75
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "region": "Vile Parle",
+        "total_revenue": 70774.88
+      }
+    ],
+    "2020-12": [
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "region": "Malad",
+        "total_revenue": 110689.62
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "region": "Kandivali",
+        "total_revenue": 97280.26000000001
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "region": "Worli",
+        "total_revenue": 79821.06
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "region": "Borivali",
+        "total_revenue": 61253.85
+      }
+    ],
+    "2020-02": [
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "region": "Navi Mumbai",
+        "total_revenue": 82822.32
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "region": "Andheri",
+        "total_revenue": 73288.48999999999
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "region": "Dadar",
+        "total_revenue": 67435.82
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "region": "Juhu",
+        "total_revenue": 57941.700000000004
+      }
+    ],
+    "2020-01": [
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "region": "Mulund",
+        "total_revenue": 245518.5
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "region": "Juhu",
+        "total_revenue": 113376.54999999999
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "region": "Kandivali",
+        "total_revenue": 91952.63
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "region": "Powai",
+        "total_revenue": 90593.02
+      }
+    ],
+    "2020-07": [
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "region": "Mulund",
+        "total_revenue": 89870.97
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "region": "Powai",
+        "total_revenue": 73254.98000000001
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "region": "Colaba",
+        "total_revenue": 67960.64
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "region": "Vile Parle",
+        "total_revenue": 54616.98
+      }
+    ],
+    "2020-06": [
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "region": "Powai",
+        "total_revenue": 148092.57
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "region": "Vile Parle",
+        "total_revenue": 76510.63
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "region": "Dadar",
+        "total_revenue": 73453.31
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "region": "Andheri",
+        "total_revenue": 70633.64
+      }
+    ],
+    "2020-03": [
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "region": "Juhu",
+        "total_revenue": 144000.53
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "region": "Goregaon",
+        "total_revenue": 98445.31
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "region": "Mulund",
+        "total_revenue": 97813.14
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "region": "Kandivali",
+        "total_revenue": 97447.40000000001
+      }
+    ],
+    "2020-05": [
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "region": "Chembur",
+        "total_revenue": 112364.33
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "region": "Kandivali",
+        "total_revenue": 85706.58
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "region": "Powai",
+        "total_revenue": 61565.4
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "region": "Dadar",
+        "total_revenue": 59985.270000000004
+      }
+    ],
+    "2020-11": [
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "region": "Juhu",
+        "total_revenue": 106471.43000000001
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "region": "Goregaon",
+        "total_revenue": 76774.32
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "region": "Bandra",
+        "total_revenue": 61999.54
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "region": "Andheri",
+        "total_revenue": 56432.119999999995
+      }
+    ],
+    "2020-10": [
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "region": "Mulund",
+        "total_revenue": 106612.29000000001
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "region": "Chembur",
+        "total_revenue": 85267.87
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "region": "Dadar",
+        "total_revenue": 84007.98000000001
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "region": "Ghatkopar",
+        "total_revenue": 74824.74
+      }
+    ],
+    "2020-09": [
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "region": "Bhandup",
+        "total_revenue": 76011.78
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "region": "Lower Parel",
+        "total_revenue": 65567.76000000001
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "region": "Chembur",
+        "total_revenue": 54620.8
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "region": "Bandra",
+        "total_revenue": 51538.45
+      }
+    ],
+    "2021-04": [
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "region": "Malad",
+        "total_revenue": 154056.65
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "region": "Bhandup",
+        "total_revenue": 149367.35
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "region": "Powai",
+        "total_revenue": 115637.89000000001
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "region": "Goregaon",
+        "total_revenue": 108821.75
+      }
+    ],
+    "2021-08": [
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "region": "Worli",
+        "total_revenue": 102324.09
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "region": "Goregaon",
+        "total_revenue": 89375.55
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "region": "Bandra",
+        "total_revenue": 65250.8
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "region": "Kandivali",
+        "total_revenue": 63208.33
+      }
+    ],
+    "2021-12": [
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "region": "Juhu",
+        "total_revenue": 143999.16
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "region": "Chembur",
+        "total_revenue": 86181.48
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "region": "Colaba",
+        "total_revenue": 84429.32
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "region": "Navi Mumbai",
+        "total_revenue": 75669.45
+      }
+    ],
+    "2021-02": [
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "region": "Lower Parel",
+        "total_revenue": 130783.79
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "region": "Ghatkopar",
+        "total_revenue": 83158.71
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "region": "Andheri",
+        "total_revenue": 73365.07
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "region": "Borivali",
+        "total_revenue": 68347.58
+      }
+    ],
+    "2021-01": [
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "region": "Sion",
+        "total_revenue": 195024.99
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "region": "Kandivali",
+        "total_revenue": 138680.55
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "region": "Mulund",
+        "total_revenue": 87322.22
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "region": "Bandra",
+        "total_revenue": 86153.76
+      }
+    ],
+    "2021-07": [
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "region": "Goregaon",
+        "total_revenue": 108681.19
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "region": "Kandivali",
+        "total_revenue": 86202.05
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "region": "Navi Mumbai",
+        "total_revenue": 61515.45
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "region": "Bhandup",
+        "total_revenue": 56022.16
+      }
+    ],
+    "2021-06": [
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "region": "Vile Parle",
+        "total_revenue": 105475.43
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "region": "Ghatkopar",
+        "total_revenue": 104161.34
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "region": "Kandivali",
+        "total_revenue": 87574.45999999999
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "region": "Colaba",
+        "total_revenue": 78225.84
+      }
+    ],
+    "2021-03": [
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "region": "Malad",
+        "total_revenue": 112981.76
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "region": "Powai",
+        "total_revenue": 108436.73
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "region": "Mulund",
+        "total_revenue": 95568.95999999999
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "region": "Vile Parle",
+        "total_revenue": 84058.26
+      }
+    ],
+    "2021-05": [
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "region": "Sion",
+        "total_revenue": 88699.78
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "region": "Goregaon",
+        "total_revenue": 83264.86
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "region": "Andheri",
+        "total_revenue": 79063.78
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "region": "Bandra",
+        "total_revenue": 75898.82
+      }
+    ],
+    "2021-11": [
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "region": "Worli",
+        "total_revenue": 137539.55
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "region": "Chembur",
+        "total_revenue": 77046.76
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "region": "Powai",
+        "total_revenue": 74591.25
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "region": "Juhu",
+        "total_revenue": 49775.44
+      }
+    ],
+    "2021-10": [
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "region": "Colaba",
+        "total_revenue": 164107.69
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "region": "Kandivali",
+        "total_revenue": 98460.31
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "region": "Juhu",
+        "total_revenue": 92374.87
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "region": "Dadar",
+        "total_revenue": 81369.66
+      }
+    ],
+    "2021-09": [
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "region": "Malad",
+        "total_revenue": 98426.52
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "region": "Mulund",
+        "total_revenue": 98346.4
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "region": "Andheri",
+        "total_revenue": 77660.63
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "region": "Navi Mumbai",
+        "total_revenue": 72865.16
+      }
+    ],
+    "2022-04": [
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "region": "Navi Mumbai",
+        "total_revenue": 84828.48
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "region": "Bandra",
+        "total_revenue": 69142.82
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "region": "Lower Parel",
+        "total_revenue": 69118.88
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "region": "Colaba",
+        "total_revenue": 63979.34
+      }
+    ],
+    "2022-08": [
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "region": "Navi Mumbai",
+        "total_revenue": 178847.98
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "region": "Chembur",
+        "total_revenue": 79911.12
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "region": "Sion",
+        "total_revenue": 77960.26
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "region": "Kandivali",
+        "total_revenue": 56209.020000000004
+      }
+    ],
+    "2022-12": [
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "region": "Vile Parle",
+        "total_revenue": 100854.79999999999
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "region": "Ghatkopar",
+        "total_revenue": 72888.04
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "region": "Borivali",
+        "total_revenue": 70407.04
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "region": "Worli",
+        "total_revenue": 68147.3
+      }
+    ],
+    "2022-02": [
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "region": "Vile Parle",
+        "total_revenue": 95667.22
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "region": "Powai",
+        "total_revenue": 64124.64
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "region": "Lower Parel",
+        "total_revenue": 63908.34
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "region": "Colaba",
+        "total_revenue": 44926.58
+      }
+    ],
+    "2022-01": [
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "region": "Dadar",
+        "total_revenue": 141956.46000000002
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "region": "Goregaon",
+        "total_revenue": 130999.26999999999
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "region": "Borivali",
+        "total_revenue": 125931.64000000001
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "region": "Andheri",
+        "total_revenue": 124767.15
+      }
+    ],
+    "2022-07": [
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "region": "Dadar",
+        "total_revenue": 66021.32
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "region": "Sion",
+        "total_revenue": 57778.11
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "region": "Navi Mumbai",
+        "total_revenue": 47729.2
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "region": "Borivali",
+        "total_revenue": 47673.05
+      }
+    ],
+    "2022-06": [
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "region": "Powai",
+        "total_revenue": 129483.0
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "region": "Chembur",
+        "total_revenue": 94897.32
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "region": "Juhu",
+        "total_revenue": 93708.2
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "region": "Sion",
+        "total_revenue": 78463.19
+      }
+    ],
+    "2022-03": [
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "region": "Powai",
+        "total_revenue": 142582.48
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "region": "Borivali",
+        "total_revenue": 109078.22
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "region": "Navi Mumbai",
+        "total_revenue": 85453.85
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "region": "Vile Parle",
+        "total_revenue": 67443.96
+      }
+    ],
+    "2022-05": [
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "region": "Lower Parel",
+        "total_revenue": 103567.1
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "region": "Kurla",
+        "total_revenue": 103143.93
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "region": "Bandra",
+        "total_revenue": 98529.98999999999
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "region": "Mulund",
+        "total_revenue": 84237.1
+      }
+    ],
+    "2022-11": [
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "region": "Andheri",
+        "total_revenue": 179080.54
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "region": "Bhandup",
+        "total_revenue": 94618.27
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "region": "Powai",
+        "total_revenue": 90096.88
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "region": "Colaba",
+        "total_revenue": 70903.01
+      }
+    ],
+    "2022-10": [
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "region": "Malad",
+        "total_revenue": 125960.05
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "region": "Juhu",
+        "total_revenue": 96938.61
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "region": "Bhandup",
+        "total_revenue": 82530.36
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "region": "Goregaon",
+        "total_revenue": 80064.8
+      }
+    ],
+    "2022-09": [
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "region": "Mulund",
+        "total_revenue": 153130.12
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "region": "Bandra",
+        "total_revenue": 125985.99
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "region": "Kandivali",
+        "total_revenue": 80440.45
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "region": "Juhu",
+        "total_revenue": 78194.48
+      }
+    ]
+  },
+  "underperforming_regions_by_month": {
+    "2020-04": [
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "region": "Andheri",
+        "total_revenue": 102.31
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "region": "Worli",
+        "total_revenue": 11352.71
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "region": "Chembur",
+        "total_revenue": 13293.39
+      },
+      {
+        "year": 2020,
+        "month": "April",
+        "month_num": 4,
+        "region": "Malad",
+        "total_revenue": 15059.68
+      }
+    ],
+    "2020-08": [
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "region": "Powai",
+        "total_revenue": 1813.4
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "region": "Lower Parel",
+        "total_revenue": 4199.68
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "region": "Ghatkopar",
+        "total_revenue": 6462.75
+      },
+      {
+        "year": 2020,
+        "month": "August",
+        "month_num": 8,
+        "region": "Dadar",
+        "total_revenue": 7708.15
+      }
+    ],
+    "2020-12": [
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "region": "Colaba",
+        "total_revenue": 557.04
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "region": "Chembur",
+        "total_revenue": 5052.25
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "region": "Dadar",
+        "total_revenue": 8922.21
+      },
+      {
+        "year": 2020,
+        "month": "December",
+        "month_num": 12,
+        "region": "Goregaon",
+        "total_revenue": 9401.76
+      }
+    ],
+    "2020-02": [
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "region": "Kandivali",
+        "total_revenue": 1008.93
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "region": "Mulund",
+        "total_revenue": 3923.6
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "region": "Ghatkopar",
+        "total_revenue": 8159.13
+      },
+      {
+        "year": 2020,
+        "month": "February",
+        "month_num": 2,
+        "region": "Colaba",
+        "total_revenue": 13764.759999999998
+      }
+    ],
+    "2020-01": [
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "region": "Lower Parel",
+        "total_revenue": 2465.76
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "region": "Kurla",
+        "total_revenue": 2784.95
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "region": "Navi Mumbai",
+        "total_revenue": 12955.2
+      },
+      {
+        "year": 2020,
+        "month": "January",
+        "month_num": 1,
+        "region": "Vile Parle",
+        "total_revenue": 15031.66
+      }
+    ],
+    "2020-07": [
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "region": "Sion",
+        "total_revenue": 447.58
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "region": "Goregaon",
+        "total_revenue": 580.56
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "region": "Chembur",
+        "total_revenue": 5087.85
+      },
+      {
+        "year": 2020,
+        "month": "July",
+        "month_num": 7,
+        "region": "Ghatkopar",
+        "total_revenue": 6122.52
+      }
+    ],
+    "2020-06": [
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "region": "Kandivali",
+        "total_revenue": 3775.92
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "region": "Borivali",
+        "total_revenue": 6815.58
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "region": "Navi Mumbai",
+        "total_revenue": 20949.63
+      },
+      {
+        "year": 2020,
+        "month": "June",
+        "month_num": 6,
+        "region": "Mulund",
+        "total_revenue": 22192.120000000003
+      }
+    ],
+    "2020-03": [
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "region": "Sion",
+        "total_revenue": 2401.5
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "region": "Andheri",
+        "total_revenue": 8377.55
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "region": "Worli",
+        "total_revenue": 27347.58
+      },
+      {
+        "year": 2020,
+        "month": "March",
+        "month_num": 3,
+        "region": "Lower Parel",
+        "total_revenue": 35998.2
+      }
+    ],
+    "2020-05": [
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "region": "Mulund",
+        "total_revenue": 2047.6
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "region": "Navi Mumbai",
+        "total_revenue": 4607.96
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "region": "Lower Parel",
+        "total_revenue": 7770.7
+      },
+      {
+        "year": 2020,
+        "month": "May",
+        "month_num": 5,
+        "region": "Sion",
+        "total_revenue": 15377.04
+      }
+    ],
+    "2020-11": [
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "region": "Malad",
+        "total_revenue": 2087.4
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "region": "Worli",
+        "total_revenue": 7994.25
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "region": "Ghatkopar",
+        "total_revenue": 14071.199999999999
+      },
+      {
+        "year": 2020,
+        "month": "November",
+        "month_num": 11,
+        "region": "Bhandup",
+        "total_revenue": 18358.78
+      }
+    ],
+    "2020-10": [
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "region": "Bandra",
+        "total_revenue": 698.02
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "region": "Kurla",
+        "total_revenue": 5699.76
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "region": "Borivali",
+        "total_revenue": 8774.4
+      },
+      {
+        "year": 2020,
+        "month": "October",
+        "month_num": 10,
+        "region": "Juhu",
+        "total_revenue": 15779.14
+      }
+    ],
+    "2020-09": [
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "region": "Ghatkopar",
+        "total_revenue": 915.68
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "region": "Juhu",
+        "total_revenue": 1445.4
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "region": "Andheri",
+        "total_revenue": 10319.58
+      },
+      {
+        "year": 2020,
+        "month": "September",
+        "month_num": 9,
+        "region": "Kandivali",
+        "total_revenue": 12112.5
+      }
+    ],
+    "2021-04": [
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "region": "Dadar",
+        "total_revenue": 1446.96
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "region": "Kandivali",
+        "total_revenue": 3379.14
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "region": "Navi Mumbai",
+        "total_revenue": 4386.24
+      },
+      {
+        "year": 2021,
+        "month": "April",
+        "month_num": 4,
+        "region": "Borivali",
+        "total_revenue": 9754.380000000001
+      }
+    ],
+    "2021-08": [
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "region": "Kurla",
+        "total_revenue": 1965.9
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "region": "Navi Mumbai",
+        "total_revenue": 2891.84
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "region": "Chembur",
+        "total_revenue": 3338.8
+      },
+      {
+        "year": 2021,
+        "month": "August",
+        "month_num": 8,
+        "region": "Ghatkopar",
+        "total_revenue": 10789.31
+      }
+    ],
+    "2021-12": [
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "region": "Malad",
+        "total_revenue": 15232.47
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "region": "Lower Parel",
+        "total_revenue": 15406.72
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "region": "Powai",
+        "total_revenue": 35287.17999999999
+      },
+      {
+        "year": 2021,
+        "month": "December",
+        "month_num": 12,
+        "region": "Bhandup",
+        "total_revenue": 49068.509999999995
+      }
+    ],
+    "2021-02": [
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "region": "Vile Parle",
+        "total_revenue": 1609.38
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "region": "Bhandup",
+        "total_revenue": 2298.65
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "region": "Colaba",
+        "total_revenue": 3065.44
+      },
+      {
+        "year": 2021,
+        "month": "February",
+        "month_num": 2,
+        "region": "Sion",
+        "total_revenue": 7776.96
+      }
+    ],
+    "2021-01": [
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "region": "Goregaon",
+        "total_revenue": 3664.92
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "region": "Chembur",
+        "total_revenue": 9054.7
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "region": "Kurla",
+        "total_revenue": 11393.93
+      },
+      {
+        "year": 2021,
+        "month": "January",
+        "month_num": 1,
+        "region": "Ghatkopar",
+        "total_revenue": 26148.079999999998
+      }
+    ],
+    "2021-07": [
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "region": "Chembur",
+        "total_revenue": 13550.18
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "region": "Worli",
+        "total_revenue": 15018.41
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "region": "Mulund",
+        "total_revenue": 29796.910000000003
+      },
+      {
+        "year": 2021,
+        "month": "July",
+        "month_num": 7,
+        "region": "Dadar",
+        "total_revenue": 33181.65
+      }
+    ],
+    "2021-06": [
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "region": "Juhu",
+        "total_revenue": 5939.43
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "region": "Sion",
+        "total_revenue": 6713.13
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "region": "Bhandup",
+        "total_revenue": 22664.04
+      },
+      {
+        "year": 2021,
+        "month": "June",
+        "month_num": 6,
+        "region": "Kurla",
+        "total_revenue": 30436.800000000003
+      }
+    ],
+    "2021-03": [
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "region": "Colaba",
+        "total_revenue": 2732.08
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "region": "Ghatkopar",
+        "total_revenue": 5598.6
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "region": "Worli",
+        "total_revenue": 8902.98
+      },
+      {
+        "year": 2021,
+        "month": "March",
+        "month_num": 3,
+        "region": "Andheri",
+        "total_revenue": 9052.8
+      }
+    ],
+    "2021-05": [
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "region": "Kurla",
+        "total_revenue": 1032.6
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "region": "Vile Parle",
+        "total_revenue": 2966.4
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "region": "Juhu",
+        "total_revenue": 4597.92
+      },
+      {
+        "year": 2021,
+        "month": "May",
+        "month_num": 5,
+        "region": "Lower Parel",
+        "total_revenue": 8636.96
+      }
+    ],
+    "2021-11": [
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "region": "Dadar",
+        "total_revenue": 7374.85
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "region": "Sion",
+        "total_revenue": 7968.12
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "region": "Lower Parel",
+        "total_revenue": 12556.29
+      },
+      {
+        "year": 2021,
+        "month": "November",
+        "month_num": 11,
+        "region": "Malad",
+        "total_revenue": 17150.22
+      }
+    ],
+    "2021-10": [
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "region": "Worli",
+        "total_revenue": 1142.1
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "region": "Bhandup",
+        "total_revenue": 2541.33
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "region": "Borivali",
+        "total_revenue": 5593.41
+      },
+      {
+        "year": 2021,
+        "month": "October",
+        "month_num": 10,
+        "region": "Bandra",
+        "total_revenue": 14120.37
+      }
+    ],
+    "2021-09": [
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "region": "Kurla",
+        "total_revenue": 1764.46
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "region": "Powai",
+        "total_revenue": 14047.6
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "region": "Colaba",
+        "total_revenue": 18429.52
+      },
+      {
+        "year": 2021,
+        "month": "September",
+        "month_num": 9,
+        "region": "Bhandup",
+        "total_revenue": 20142.6
+      }
+    ],
+    "2022-04": [
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "region": "Goregaon",
+        "total_revenue": 1981.48
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "region": "Bhandup",
+        "total_revenue": 4184.04
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "region": "Vile Parle",
+        "total_revenue": 11416.86
+      },
+      {
+        "year": 2022,
+        "month": "April",
+        "month_num": 4,
+        "region": "Chembur",
+        "total_revenue": 16014.51
+      }
+    ],
+    "2022-08": [
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "region": "Worli",
+        "total_revenue": 346.62
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "region": "Ghatkopar",
+        "total_revenue": 3167.0
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "region": "Dadar",
+        "total_revenue": 13846.2
+      },
+      {
+        "year": 2022,
+        "month": "August",
+        "month_num": 8,
+        "region": "Borivali",
+        "total_revenue": 15952.8
+      }
+    ],
+    "2022-12": [
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "region": "Malad",
+        "total_revenue": 815.76
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "region": "Mulund",
+        "total_revenue": 2942.4
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "region": "Andheri",
+        "total_revenue": 3002.27
+      },
+      {
+        "year": 2022,
+        "month": "December",
+        "month_num": 12,
+        "region": "Juhu",
+        "total_revenue": 4618.5
+      }
+    ],
+    "2022-02": [
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "region": "Chembur",
+        "total_revenue": 2235.4
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "region": "Ghatkopar",
+        "total_revenue": 2476.32
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "region": "Worli",
+        "total_revenue": 5547.38
+      },
+      {
+        "year": 2022,
+        "month": "February",
+        "month_num": 2,
+        "region": "Navi Mumbai",
+        "total_revenue": 5738.54
+      }
+    ],
+    "2022-01": [
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "region": "Navi Mumbai",
+        "total_revenue": 455.26
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "region": "Vile Parle",
+        "total_revenue": 1369.8
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "region": "Mulund",
+        "total_revenue": 11297.56
+      },
+      {
+        "year": 2022,
+        "month": "January",
+        "month_num": 1,
+        "region": "Powai",
+        "total_revenue": 16379.91
+      }
+    ],
+    "2022-07": [
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "region": "Lower Parel",
+        "total_revenue": 1958.0
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "region": "Mulund",
+        "total_revenue": 4831.36
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "region": "Bhandup",
+        "total_revenue": 5851.62
+      },
+      {
+        "year": 2022,
+        "month": "July",
+        "month_num": 7,
+        "region": "Colaba",
+        "total_revenue": 18966.28
+      }
+    ],
+    "2022-06": [
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "region": "Malad",
+        "total_revenue": 2794.12
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "region": "Worli",
+        "total_revenue": 16541.14
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "region": "Bhandup",
+        "total_revenue": 21085.68
+      },
+      {
+        "year": 2022,
+        "month": "June",
+        "month_num": 6,
+        "region": "Kandivali",
+        "total_revenue": 30234.22
+      }
+    ],
+    "2022-03": [
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "region": "Lower Parel",
+        "total_revenue": 3148.3
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "region": "Colaba",
+        "total_revenue": 6101.73
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "region": "Bandra",
+        "total_revenue": 6598.68
+      },
+      {
+        "year": 2022,
+        "month": "March",
+        "month_num": 3,
+        "region": "Bhandup",
+        "total_revenue": 7377.700000000001
+      }
+    ],
+    "2022-05": [
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "region": "Sion",
+        "total_revenue": 8893.5
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "region": "Bhandup",
+        "total_revenue": 9270.24
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "region": "Colaba",
+        "total_revenue": 11246.3
+      },
+      {
+        "year": 2022,
+        "month": "May",
+        "month_num": 5,
+        "region": "Vile Parle",
+        "total_revenue": 17981.44
+      }
+    ],
+    "2022-11": [
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "region": "Kandivali",
+        "total_revenue": 850.35
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "region": "Sion",
+        "total_revenue": 25808.51
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "region": "Ghatkopar",
+        "total_revenue": 45253.52
+      },
+      {
+        "year": 2022,
+        "month": "November",
+        "month_num": 11,
+        "region": "Bandra",
+        "total_revenue": 45302.56
+      }
+    ],
+    "2022-10": [
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "region": "Bandra",
+        "total_revenue": 3370.05
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "region": "Chembur",
+        "total_revenue": 6254.28
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "region": "Navi Mumbai",
+        "total_revenue": 9482.11
+      },
+      {
+        "year": 2022,
+        "month": "October",
+        "month_num": 10,
+        "region": "Colaba",
+        "total_revenue": 13001.84
+      }
+    ],
+    "2022-09": [
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "region": "Sion",
+        "total_revenue": 732.91
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "region": "Navi Mumbai",
+        "total_revenue": 3042.9700000000003
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "region": "Vile Parle",
+        "total_revenue": 3667.95
+      },
+      {
+        "year": 2022,
+        "month": "September",
+        "month_num": 9,
+        "region": "Ghatkopar",
+        "total_revenue": 6611.92
+      }
+    ]
+  },
+  "aov_change": -46.92,
+  "sales_change": -23.04,
+  "profit_margin_last": 38.725358624970326,
+  "profit_margin_change": -41.56
+}

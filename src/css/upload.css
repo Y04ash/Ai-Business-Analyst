@@ -1,0 +1,71 @@
+/* UploadPage.css */
+
+.upload-container {
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  .dropzone {
+    border: 2px dashed #888;
+    border-radius: 10px;
+    padding: 40px;
+    text-align: center;
+    background-color: #d3effe;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    position: relative;
+  }
+  
+  .dropzone.active {
+    background-color: #f0f8ff;
+    border-color: #007bff;
+  }
+  
+  .file-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .file-name {
+    margin-top: 10px;
+    font-style: italic;
+    color: #555;
+  }
+  
+  .note {
+    background-color: #fefefe;
+    padding: 20px;
+    margin-top: 30px;
+    border-left: 5px solid #007bff;
+    border-radius: 5px;
+  }
+  
+  .note h3 {
+    margin-bottom: 10px;
+    color: #007bff;
+  }
+  
+  .note ul {
+    padding-left: 20px;
+  }
+  
+  .note li {
+    margin-bottom: 6px;
+    line-height: 1.5;
+  }
+  

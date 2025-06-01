@@ -1,0 +1,202 @@
+[
+    {
+        "antecedents":[
+            "GREEN REGENCY TEACUP AND SAUCER"
+        ],
+        "consequents":[
+            "ROSES REGENCY TEACUP AND SAUCER "
+        ],
+        "antecedent support":0.0408108108,
+        "consequent support":0.0432432432,
+        "support":0.0302702703,
+        "confidence":0.7417218543,
+        "lift":17.1523178808,
+        "representativity":1.0,
+        "leverage":0.0285054785,
+        "conviction":3.7043659044,
+        "zhangs_metric":0.9817654873,
+        "jaccard":0.5628140704,
+        "certainty":0.7300482658,
+        "kulczynski":0.7208609272
+    },
+    {
+        "antecedents":[
+            "ROSES REGENCY TEACUP AND SAUCER "
+        ],
+        "consequents":[
+            "GREEN REGENCY TEACUP AND SAUCER"
+        ],
+        "antecedent support":0.0432432432,
+        "consequent support":0.0408108108,
+        "support":0.0302702703,
+        "confidence":0.7,
+        "lift":17.1523178808,
+        "representativity":1.0,
+        "leverage":0.0285054785,
+        "conviction":3.1972972973,
+        "zhangs_metric":0.9842615012,
+        "jaccard":0.5628140704,
+        "certainty":0.6872358411,
+        "kulczynski":0.7208609272
+    },
+    {
+        "antecedents":[
+            "JUMBO BAG PINK POLKADOT"
+        ],
+        "consequents":[
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "antecedent support":0.0475289575,
+        "consequent support":0.0824324324,
+        "support":0.0321621622,
+        "confidence":0.6766856214,
+        "lift":8.2089731126,
+        "representativity":1.0,
+        "leverage":0.0282442346,
+        "conviction":2.8380042102,
+        "zhangs_metric":0.9220039712,
+        "jaccard":0.3288590604,
+        "certainty":0.6476397053,
+        "kulczynski":0.5334247779
+    },
+    {
+        "antecedents":[
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "consequents":[
+            "JUMBO BAG PINK POLKADOT"
+        ],
+        "antecedent support":0.0824324324,
+        "consequent support":0.0475289575,
+        "support":0.0321621622,
+        "confidence":0.3901639344,
+        "lift":8.2089731126,
+        "representativity":1.0,
+        "leverage":0.0282442346,
+        "conviction":1.5618476772,
+        "zhangs_metric":0.9570762031,
+        "jaccard":0.3288590604,
+        "certainty":0.359732697,
+        "kulczynski":0.5334247779
+    },
+    {
+        "antecedents":[
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "consequents":[
+            "JUMBO SHOPPER VINTAGE RED PAISLEY"
+        ],
+        "antecedent support":0.0824324324,
+        "consequent support":0.0458301158,
+        "support":0.0263706564,
+        "confidence":0.3199063232,
+        "lift":6.9802643391,
+        "representativity":1.0,
+        "leverage":0.0225927684,
+        "conviction":1.4029977291,
+        "zhangs_metric":0.933706661,
+        "jaccard":0.2588101554,
+        "certainty":0.2872404714,
+        "kulczynski":0.4476532458
+    },
+    {
+        "antecedents":[
+            "JUMBO SHOPPER VINTAGE RED PAISLEY"
+        ],
+        "consequents":[
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "antecedent support":0.0458301158,
+        "consequent support":0.0824324324,
+        "support":0.0263706564,
+        "confidence":0.5754001685,
+        "lift":6.9802643391,
+        "representativity":1.0,
+        "leverage":0.0225927684,
+        "conviction":2.1610172673,
+        "zhangs_metric":0.8978893214,
+        "jaccard":0.2588101554,
+        "certainty":0.5372549701,
+        "kulczynski":0.4476532458
+    },
+    {
+        "antecedents":[
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "consequents":[
+            "JUMBO STORAGE BAG SUKI"
+        ],
+        "antecedent support":0.0824324324,
+        "consequent support":0.0463706564,
+        "support":0.0283011583,
+        "confidence":0.3433255269,
+        "lift":7.4039393402,
+        "representativity":1.0,
+        "leverage":0.0244787123,
+        "conviction":1.4522101631,
+        "zhangs_metric":0.9426409514,
+        "jaccard":0.281598156,
+        "certainty":0.3113944349,
+        "kulczynski":0.4768251282
+    },
+    {
+        "antecedents":[
+            "JUMBO STORAGE BAG SUKI"
+        ],
+        "consequents":[
+            "JUMBO BAG RED RETROSPOT"
+        ],
+        "antecedent support":0.0463706564,
+        "consequent support":0.0824324324,
+        "support":0.0283011583,
+        "confidence":0.6103247294,
+        "lift":7.4039393402,
+        "representativity":1.0,
+        "leverage":0.0244787123,
+        "conviction":2.3546979672,
+        "zhangs_metric":0.9069947046,
+        "jaccard":0.281598156,
+        "certainty":0.5753170836,
+        "kulczynski":0.4768251282
+    },
+    {
+        "antecedents":[
+            "LUNCH BAG  BLACK SKULL."
+        ],
+        "consequents":[
+            "LUNCH BAG RED RETROSPOT"
+        ],
+        "antecedent support":0.05,
+        "consequent support":0.062046332,
+        "support":0.025019305,
+        "confidence":0.5003861004,
+        "lift":8.0647168637,
+        "representativity":1.0,
+        "leverage":0.0219169884,
+        "conviction":1.8773570325,
+        "zhangs_metric":0.922108512,
+        "jaccard":0.2874889086,
+        "certainty":0.4673362697,
+        "kulczynski":0.4518109718
+    },
+    {
+        "antecedents":[
+            "LUNCH BAG RED RETROSPOT"
+        ],
+        "consequents":[
+            "LUNCH BAG  BLACK SKULL."
+        ],
+        "antecedent support":0.062046332,
+        "consequent support":0.05,
+        "support":0.025019305,
+        "confidence":0.4032358432,
+        "lift":8.0647168637,
+        "representativity":1.0,
+        "leverage":0.0219169884,
+        "conviction":1.5919186653,
+        "zhangs_metric":0.9339513415,
+        "jaccard":0.2874889086,
+        "certainty":0.3718272034,
+        "kulczynski":0.4518109718
+    }
+]

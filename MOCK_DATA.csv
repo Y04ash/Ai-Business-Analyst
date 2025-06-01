@@ -1,0 +1,1001 @@
+order_id,order_date,product_name,product_category,quantity,unit_price,total_revenue,customer_id,region,cost_price
+1,18/11/2022,lorem,toys,92,558.87,51416.04,8814,Goregaon,651.04
+2,28/07/2020,etiam,electronics,35,475.05,16626.75,6905,Borivali,489.23
+3,12/11/2021,integer,beauty products,93,988.67,91946.31,8075,Worli,525.15
+4,7/5/2020,ipsum integer,home decor,32,180.29,5769.28,8839,Kandivali,332.07
+5,8/11/2022,tortor eu,toys,100,889.12,88912,9897,Bhandup,17.19
+6,27/01/2021,sit,clothing,8,919.06,7352.48,7072,Ghatkopar,76.73
+7,26/07/2021,amet,home decor,85,753.25,64026.25,8198,Goregaon,641.16
+8,19/08/2021,tempus,home decor,43,484.71,20842.53,5425,Bandra,123.77
+9,28/07/2021,risus praesent,home decor,31,429.19,13304.89,6351,Bandra,626.28
+10,27/11/2020,rhoncus,clothing,63,641.04,40385.52,4323,Powai,481.26
+11,3/5/2021,at,home decor,100,223.32,22332,8297,Chembur,236.24
+12,18/05/2021,tristique,kitchen appliances,55,443.57,24396.35,3658,Kandivali,367.61
+13,5/7/2022,quam,outdoor gear,37,51.79,1916.23,4671,Kurla,170.75
+14,13/08/2021,purus,office supplies,43,415.07,17848.01,9886,Colaba,131.2
+15,20/05/2020,tempor,pet supplies,52,900.7,46836.4,5338,Colaba,182.25
+16,5/4/2022,euismod,office supplies,62,274.04,16990.48,7728,Andheri,284.55
+17,15/07/2022,elementum,beauty products,76,294.92,22413.92,4683,Navi Mumbai,647.36
+18,10/6/2020,pharetra,office supplies,20,84.34,1686.8,4807,Goregaon,322.02
+19,14/03/2021,morbi,pet supplies,63,795.36,50107.68,4136,Mulund,300.03
+20,17/10/2020,etiam,outdoor gear,76,164.68,12515.68,2400,Navi Mumbai,333.26
+21,29/10/2022,diam cras,pet supplies,6,929.44,5576.64,7659,Malad,631.96
+22,6/12/2022,tincidunt in,toys,89,3,267,1279,Ghatkopar,475.09
+23,26/07/2022,sit,toys,64,75.49,4831.36,3900,Mulund,61.14
+24,7/4/2021,ac,outdoor gear,15,482.12,7231.8,4881,Juhu,105.82
+25,30/06/2021,sapien,office supplies,12,281.41,3376.92,3836,Juhu,315.98
+26,11/1/2020,luctus ultricies,sports equipment,80,287.29,22983.2,2846,Borivali,343.24
+27,13/12/2022,amet lobortis,beauty products,16,15.97,255.52,9682,Powai,509.07
+28,14/12/2022,sem,home decor,22,37.08,815.76,3646,Malad,545.06
+29,10/3/2020,in,sports equipment,77,594.07,45743.39,1329,Juhu,287.12
+30,12/11/2020,vulputate,electronics,73,226.95,16567.35,9780,Andheri,112.98
+31,5/7/2022,scelerisque mauris,electronics,98,369.8,36240.4,9574,Dadar,230.23
+32,26/06/2020,arcu adipiscing,home decor,81,182.81,14807.61,6486,Vile Parle,159.74
+33,20/11/2022,condimentum curabitur,beauty products,53,853.84,45253.52,4130,Ghatkopar,182.83
+34,1/12/2022,morbi,office supplies,35,115.85,4054.75,6026,Worli,633.97
+35,13/07/2021,mauris,toys,25,834.41,20860.25,5626,Bhandup,421.78
+36,9/8/2022,mi in,office supplies,100,335.13,33513,2139,Goregaon,251.08
+37,17/01/2020,suscipit nulla,toys,86,356.09,30623.74,9729,Powai,351.98
+38,4/4/2020,consectetuer adipiscing,kitchen appliances,29,248.4,7203.6,3675,Mulund,472.21
+39,18/04/2020,augue luctus,clothing,33,402.83,13293.39,5112,Chembur,412.33
+40,16/11/2020,nonummy,electronics,21,294.94,6193.74,5903,Vile Parle,39.94
+41,2/9/2022,in,kitchen appliances,7,944.56,6611.92,7233,Ghatkopar,381.45
+42,16/06/2020,tristique,sports equipment,72,469.28,33788.16,7429,Chembur,553.5
+43,21/02/2021,nulla integer,kitchen appliances,31,807.26,25025.06,3780,Mulund,592.16
+44,3/5/2020,sagittis,home decor,49,94.04,4607.96,8395,Navi Mumbai,2.94
+45,12/10/2021,vestibulum sed,outdoor gear,45,25.38,1142.1,2798,Worli,654.63
+46,4/4/2020,a pede,kitchen appliances,49,926.06,45376.94,2691,Mulund,96.89
+47,14/07/2022,diam neque,pet supplies,57,56.57,3224.49,6058,Colaba,68.24
+48,21/01/2021,amet,beauty products,57,826.67,47120.19,2241,Navi Mumbai,307.78
+49,28/05/2021,vel enim,kitchen appliances,85,708.41,60214.85,7014,Mulund,562.03
+50,2/9/2020,dui luctus,toys,62,859.73,53303.26,3013,Chembur,617.1
+51,4/6/2021,nisl,home decor,48,780.44,37461.12,6782,Bandra,87.59
+52,16/02/2022,arcu sed,sports equipment,74,677.85,50160.9,9138,Powai,555.57
+53,18/08/2021,vestibulum,clothing,66,132.51,8745.66,1790,Ghatkopar,551.39
+54,18/02/2022,ipsum,electronics,37,196.36,7265.32,7126,Sion,440.41
+55,26/01/2020,tempus vel,home decor,65,855.04,55577.6,5401,Colaba,158.22
+56,6/11/2020,turpis,toys,19,565.3,10740.7,3000,Bhandup,620.53
+57,13/03/2020,cum sociis,outdoor gear,1,936.05,936.05,8995,Sion,582.74
+58,24/01/2021,enim in,kitchen appliances,29,388.2,11257.8,6772,Kandivali,100.94
+59,17/03/2020,duis,office supplies,77,185.39,14275.03,6468,Worli,408.02
+60,11/7/2020,magnis dis,electronics,40,318.19,12727.6,9298,Navi Mumbai,692.66
+61,18/03/2021,fusce consequat,office supplies,32,424.32,13578.24,9019,Kurla,45.45
+62,15/06/2020,erat,beauty products,87,78.34,6815.58,5481,Borivali,608.84
+63,26/01/2021,amet,home decor,5,346.54,1732.7,9680,Chembur,16.34
+64,22/11/2020,cum,office supplies,38,352.35,13389.3,3937,Kandivali,317
+65,24/12/2020,ridiculus mus,kitchen appliances,57,260.71,14860.47,5224,Powai,607.98
+66,8/1/2022,at lorem,sports equipment,62,145.01,8990.62,4002,Dadar,366.06
+67,18/05/2021,justo,pet supplies,46,629.25,28945.5,4063,Bandra,542.55
+68,3/8/2022,sit amet,electronics,27,499.18,13477.86,7352,Lower Parel,15.17
+69,25/07/2020,at,office supplies,99,182.14,18031.86,7073,Vile Parle,395.06
+70,18/04/2022,quis augue,office supplies,70,851.59,59611.3,2800,Lower Parel,60.15
+71,5/2/2022,pharetra,outdoor gear,4,705.81,2823.24,4827,Powai,36.73
+72,18/05/2021,orci luctus,clothing,56,967.49,54179.44,5444,Goregaon,482.67
+73,2/6/2020,natoque,beauty products,100,273.32,27332,1437,Colaba,43.94
+74,30/04/2021,sit,office supplies,88,903.35,79494.8,1810,Malad,422.5
+75,31/03/2020,non interdum,home decor,80,661.62,52929.6,9644,Goregaon,496.89
+76,23/01/2020,mi nulla,electronics,32,864.1,27651.2,4993,Malad,347.89
+77,18/08/2020,vulputate luctus,office supplies,3,674.17,2022.51,7027,Borivali,115.16
+78,21/06/2022,nulla,clothing,49,59.66,2923.34,1626,Colaba,346.6
+79,13/03/2020,pellentesque volutpat,electronics,11,644.1,7085.1,9281,Chembur,416.89
+80,9/7/2020,lectus,outdoor gear,1,447.58,447.58,5165,Sion,158.57
+81,12/10/2022,donec vitae,beauty products,99,833.64,82530.36,3463,Bhandup,540.81
+82,10/2/2020,aliquam erat,clothing,77,308.95,23789.15,6055,Sion,384.75
+83,29/12/2022,at,sports equipment,89,72.19,6424.91,1547,Powai,238.65
+84,19/07/2020,donec ut,toys,95,486.58,46225.1,9059,Mulund,695.04
+85,2/1/2020,non velit,beauty products,7,435.75,3050.25,8682,Colaba,695.29
+86,15/04/2021,condimentum curabitur,sports equipment,86,800.74,68863.64,1442,Andheri,618.66
+87,29/08/2022,sapien cum,home decor,82,427.21,35031.22,4524,Bandra,284.06
+88,1/10/2020,in hac,clothing,2,349.01,698.02,6764,Bandra,78.25
+89,14/10/2020,duis,outdoor gear,69,693.41,47845.29,5724,Mulund,654.07
+90,4/4/2020,nec dui,pet supplies,42,792.36,33279.12,4652,Sion,624.43
+91,26/06/2021,duis at,outdoor gear,46,482.39,22189.94,4228,Goregaon,688.66
+92,14/08/2022,sit,home decor,100,31.67,3167,2888,Ghatkopar,539.69
+93,8/5/2021,elementum,office supplies,50,532.94,26647,8605,Andheri,452.69
+94,9/11/2020,quisque,electronics,43,490.19,21078.17,2006,Andheri,329.15
+95,9/12/2021,elit,beauty products,16,824.74,13195.84,5776,Dadar,122.93
+96,30/11/2021,dignissim,kitchen appliances,1,228.42,228.42,5220,Mulund,596.43
+97,11/2/2022,lacinia nisi,pet supplies,23,301.24,6928.52,1413,Juhu,165.74
+98,18/06/2020,suscipit,pet supplies,25,400.17,10004.25,4274,Powai,441.22
+99,25/03/2020,sed tristique,sports equipment,5,62.16,310.8,8994,Andheri,494.93
+100,11/1/2022,semper interdum,pet supplies,47,48.71,2289.37,7390,Ghatkopar,198.05
+101,9/10/2020,adipiscing elit,sports equipment,11,518.16,5699.76,1701,Kurla,399.99
+102,21/12/2020,augue aliquam,pet supplies,13,531.12,6904.56,9150,Goregaon,392.04
+103,14/02/2022,tincidunt,sports equipment,22,391.74,8618.28,9477,Kurla,292.43
+104,8/12/2020,curae duis,office supplies,72,201.94,14539.68,3417,Kandivali,195.03
+105,26/03/2022,ligula,pet supplies,59,433.24,25561.16,3113,Borivali,103.22
+106,6/3/2021,sagittis dui,home decor,1,826.65,826.65,7762,Borivali,266.49
+107,15/02/2021,quis lectus,sports equipment,16,486.06,7776.96,1276,Sion,560.25
+108,16/08/2020,sapien,clothing,2,906.7,1813.4,6256,Powai,187.64
+109,2/3/2021,nunc,clothing,98,240.5,23569,2189,Malad,482.43
+110,7/12/2020,dignissim vestibulum,kitchen appliances,51,630.5,32155.5,4106,Malad,517.19
+111,23/10/2020,arcu,clothing,88,467.75,41162,2086,Bhandup,394.41
+112,1/12/2022,quis libero,sports equipment,32,619.78,19832.96,5681,Goregaon,49.76
+113,14/11/2020,eleifend,sports equipment,29,773.98,22445.42,6863,Sion,237.58
+114,6/5/2022,penatibus,electronics,62,149.52,9270.24,6950,Bhandup,322.05
+115,19/01/2021,tristique tortor,toys,91,275.42,25063.22,6948,Worli,232.72
+116,18/03/2022,mauris,pet supplies,47,852.47,40066.09,8804,Kurla,74.42
+117,10/10/2022,nec sem,office supplies,57,916.66,52249.62,3132,Sion,419.72
+118,1/11/2022,lacinia,kitchen appliances,83,907.5,75322.5,3132,Andheri,31.94
+119,8/9/2020,malesuada in,toys,4,228.92,915.68,6098,Ghatkopar,15.27
+120,26/07/2022,habitasse platea,office supplies,32,764.93,24477.76,8973,Malad,384.09
+121,24/10/2020,nisi at,kitchen appliances,23,669.17,15390.91,4170,Chembur,321.39
+122,5/10/2020,sem sed,beauty products,40,219.36,8774.4,7544,Borivali,8.88
+123,31/01/2022,morbi,home decor,47,818.39,38464.33,7205,Borivali,421.4
+124,30/10/2020,congue diam,outdoor gear,60,979.45,58767,5810,Mulund,515.78
+125,22/12/2020,habitasse,sports equipment,3,188.84,566.52,4500,Bandra,665.33
+126,11/7/2021,amet diam,sports equipment,30,110.44,3313.2,8279,Colaba,695.32
+127,28/04/2022,vel,office supplies,54,59.06,3189.24,2340,Bhandup,535.1
+128,6/10/2020,augue vel,kitchen appliances,88,767.76,67562.88,1945,Lower Parel,495.02
+129,22/09/2020,ipsum,sports equipment,22,901.99,19843.78,5181,Dadar,165.16
+130,18/08/2021,ac,home decor,92,91.27,8396.84,2413,Bandra,227.92
+131,2/8/2020,libero,electronics,64,251.3,16083.2,6402,Navi Mumbai,197.3
+132,2/8/2022,adipiscing,kitchen appliances,1,101.06,101.06,3850,Kurla,27.42
+133,8/3/2022,nec sem,clothing,4,437.05,1748.2,6264,Lower Parel,667.14
+134,19/12/2022,morbi,toys,61,265.17,16175.37,6242,Vile Parle,121.78
+135,12/5/2020,diam vitae,outdoor gear,26,914.88,23786.88,9137,Malad,565
+136,15/04/2022,mattis egestas,kitchen appliances,69,820.4,56607.6,1529,Navi Mumbai,342.27
+137,26/05/2020,ac tellus,office supplies,28,836.19,23413.32,5420,Juhu,372.19
+138,29/07/2020,in,toys,61,862.72,52625.92,8011,Worli,501.8
+139,23/03/2020,nascetur,pet supplies,79,809.26,63931.54,2926,Vile Parle,696.72
+140,1/11/2020,non,toys,29,828.32,24021.28,6777,Juhu,24.09
+141,14/07/2020,vehicula condimentum,pet supplies,98,349.85,34285.3,1318,Borivali,506.81
+142,17/08/2022,dui,home decor,25,991.71,24792.75,1996,Kurla,631.07
+143,21/10/2022,semper rutrum,outdoor gear,89,763.49,67950.61,3097,Malad,525.62
+144,12/5/2020,non,kitchen appliances,67,854.91,57278.97,1180,Dadar,217.39
+145,8/10/2022,suscipit ligula,sports equipment,7,54.02,378.14,1560,Colaba,173.12
+146,29/05/2022,quis odio,office supplies,94,325.33,30581.02,9688,Lower Parel,460.47
+147,25/05/2022,ut,toys,8,853.08,6824.64,6571,Borivali,84.87
+148,14/10/2020,nisi nam,office supplies,58,440.9,25572.2,7233,Andheri,200.12
+149,22/02/2020,rutrum,kitchen appliances,64,767.47,49118.08,9371,Juhu,152.94
+150,14/10/2021,justo,beauty products,84,260.71,21899.64,5274,Goregaon,447.03
+151,18/09/2021,vulputate,beauty products,93,550.83,51227.19,3575,Juhu,537.33
+152,17/04/2022,augue,sports equipment,2,497.4,994.8,3233,Bhandup,29.96
+153,26/03/2021,lacinia,home decor,86,615.59,52940.74,1393,Borivali,224
+154,2/2/2020,risus praesent,home decor,34,115.4,3923.6,7157,Mulund,433.49
+155,6/4/2022,duis,beauty products,22,678.94,14936.68,9012,Powai,39.65
+156,27/08/2022,leo,kitchen appliances,22,923.78,20323.16,1514,Kurla,30.96
+157,28/10/2021,orci luctus,sports equipment,32,440.54,14097.28,3279,Juhu,675.75
+158,24/11/2021,lectus vestibulum,outdoor gear,2,310.13,620.26,3586,Kurla,4.72
+159,11/11/2020,donec pharetra,electronics,33,242.25,7994.25,2305,Worli,637.4
+160,5/10/2022,luctus,toys,33,983.51,32455.83,5207,Lower Parel,330.67
+161,26/10/2020,nec,clothing,22,585.7,12885.4,1055,Chembur,687.6
+162,22/08/2020,vestibulum,kitchen appliances,53,849.15,45004.95,4990,Sion,629.38
+163,14/05/2022,libero quis,toys,67,430.99,28876.33,8887,Mulund,206.11
+164,10/10/2022,volutpat quam,home decor,92,529.62,48725.04,4928,Goregaon,54.57
+165,7/8/2022,blandit,outdoor gear,83,975.36,80954.88,4535,Navi Mumbai,329.68
+166,15/01/2020,porttitor,electronics,61,278.44,16984.84,2377,Malad,327.05
+167,12/3/2022,primis,kitchen appliances,99,247.61,24513.39,8423,Navi Mumbai,174.68
+168,9/5/2021,convallis,office supplies,23,130.1,2992.3,9363,Worli,418.99
+169,18/07/2022,ipsum dolor,outdoor gear,81,713.31,57778.11,6102,Sion,431.7
+170,30/12/2020,tellus,toys,22,25.32,557.04,3194,Colaba,189.45
+171,24/08/2021,et ultrices,home decor,88,531.38,46761.44,9774,Vile Parle,85.5
+172,11/8/2020,odio,sports equipment,64,65.62,4199.68,8489,Lower Parel,51.39
+173,22/09/2021,quisque ut,clothing,11,822.4,9046.4,7798,Bhandup,319.67
+174,26/08/2020,faucibus cursus,clothing,13,6.12,79.56,2532,Mulund,22.16
+175,8/1/2020,nulla,clothing,43,355.9,15303.7,6267,Colaba,316.24
+176,6/2/2021,posuere,clothing,49,711.08,34842.92,9364,Lower Parel,561.46
+177,1/1/2022,vitae,beauty products,70,721.46,50502.2,8293,Ghatkopar,165.14
+178,16/09/2020,varius integer,electronics,43,951.5,40914.5,3336,Malad,558.06
+179,18/01/2022,sem,beauty products,26,17.51,455.26,6477,Navi Mumbai,583.58
+180,12/9/2021,enim,clothing,80,613.92,49113.6,4687,Sion,77.43
+181,21/12/2021,cursus id,clothing,4,388.96,1555.84,7762,Kandivali,265.08
+182,23/04/2021,pretium,home decor,9,104.88,943.92,7777,Bandra,508.26
+183,6/1/2022,nulla,beauty products,5,23.67,118.35,1710,Powai,597.76
+184,27/09/2022,morbi sem,sports equipment,91,157.76,14356.16,6246,Worli,426.46
+185,26/01/2022,in,beauty products,54,619.72,33464.88,2081,Lower Parel,599.7
+186,30/05/2021,suscipit,outdoor gear,49,593.58,29085.42,9270,Goregaon,293.84
+187,28/01/2022,pulvinar,kitchen appliances,67,113.98,7636.66,8244,Borivali,610.36
+188,5/7/2021,cras pellentesque,outdoor gear,70,502.88,35201.6,2741,Bandra,437.18
+189,17/10/2022,fusce lacus,beauty products,76,842.34,64017.84,8427,Borivali,222.69
+190,16/07/2022,proin risus,beauty products,37,385.46,14262.02,1059,Kurla,147.03
+191,14/04/2022,posuere cubilia,home decor,91,197.54,17976.14,5278,Colaba,45
+192,22/12/2022,consequat nulla,home decor,81,389.36,31538.16,5778,Kurla,299.28
+193,25/09/2022,in,home decor,75,881.35,66101.25,5873,Kandivali,102.75
+194,21/10/2021,felis,outdoor gear,5,588.93,2944.65,1271,Dadar,40.84
+195,24/04/2021,orci eget,beauty products,39,521.62,20343.18,5963,Bandra,170.53
+196,19/08/2022,eu nibh,outdoor gear,70,756.64,52964.8,2666,Navi Mumbai,27.86
+197,21/04/2020,viverra,toys,98,975.19,95568.62,7277,Borivali,245.15
+198,24/12/2022,urna,sports equipment,31,197.16,6111.96,6457,Lower Parel,523.34
+199,4/7/2021,tincidunt in,electronics,24,479.88,11517.12,6185,Powai,48.71
+200,31/01/2020,risus,office supplies,51,391.1,19946.1,6828,Goregaon,23.61
+201,25/05/2022,vestibulum velit,kitchen appliances,69,344.8,23791.2,6767,Andheri,321.51
+202,3/6/2020,ultrices phasellus,kitchen appliances,66,754.87,49821.42,4210,Vile Parle,681.5
+203,31/12/2020,integer,electronics,44,639.06,28118.64,6220,Worli,299.06
+204,18/07/2021,rutrum,outdoor gear,67,701.66,47011.22,6925,Malad,622.98
+205,24/06/2021,a,kitchen appliances,33,392.57,12954.81,2014,Lower Parel,615.93
+206,24/04/2022,euismod,pet supplies,95,321.62,30553.9,9297,Mulund,299.17
+207,15/08/2021,primis in,pet supplies,30,65.53,1965.9,7307,Kurla,276.34
+208,10/6/2021,pellentesque,pet supplies,63,191.28,12050.64,1260,Kandivali,310.75
+209,9/6/2020,integer non,electronics,69,221.72,15298.68,8088,Malad,459.78
+210,20/07/2022,magna vestibulum,home decor,59,266.81,15741.79,6403,Colaba,280.62
+211,19/04/2020,dolor,beauty products,82,738.87,60587.34,3000,Bhandup,268.69
+212,9/2/2021,odio donec,home decor,5,488.26,2441.3,3035,Navi Mumbai,15.07
+213,27/12/2022,metus aenean,home decor,44,896.36,39439.84,5342,Borivali,15.95
+214,1/8/2021,consectetuer,kitchen appliances,91,395.73,36011.43,2912,Bandra,654.67
+215,7/5/2020,blandit,office supplies,63,244.08,15377.04,8612,Sion,679.57
+216,25/05/2021,curae duis,beauty products,59,888.42,52416.78,6605,Andheri,427.59
+217,4/7/2021,ornare imperdiet,home decor,45,900.1,40504.5,4798,Powai,240.13
+218,28/12/2021,praesent,outdoor gear,55,278.01,15290.55,4030,Bhandup,364.39
+219,12/3/2020,dictumst,pet supplies,36,999.95,35998.2,6939,Lower Parel,265.98
+220,29/05/2021,pulvinar nulla,office supplies,32,163.6,5235.2,8626,Navi Mumbai,480.97
+221,31/01/2021,ut mauris,beauty products,76,468.56,35610.56,8696,Sion,117.11
+222,3/6/2020,quis,beauty products,1,217.53,217.53,1131,Chembur,247.21
+223,18/09/2021,eu,electronics,50,126.26,6313,6154,Colaba,320.14
+224,6/10/2021,sapien,electronics,29,314.73,9127.17,5038,Dadar,256.24
+225,15/07/2022,consequat,office supplies,65,307.68,19999.2,1889,Malad,494.51
+226,17/09/2021,tincidunt eget,pet supplies,20,554.81,11096.2,9262,Bhandup,681.97
+227,15/02/2021,nulla ut,office supplies,39,843.29,32888.31,2053,Dadar,518.37
+228,18/03/2020,blandit,kitchen appliances,5,293.09,1465.45,7452,Sion,264.49
+229,6/8/2021,proin interdum,outdoor gear,62,387.85,24046.7,6421,Worli,253.78
+230,21/06/2021,donec,sports equipment,3,854.17,2562.51,5437,Juhu,405.28
+231,3/8/2022,amet justo,clothing,14,610.48,8546.72,9469,Kandivali,551.69
+232,10/7/2020,venenatis,home decor,82,446.16,36585.12,6057,Vile Parle,590.37
+233,10/7/2020,id ligula,outdoor gear,90,288.02,25921.8,7138,Powai,550.22
+234,6/3/2020,dui,office supplies,59,699.39,41264.01,1723,Mulund,691.6
+235,6/11/2020,eu,toys,92,509.56,46879.52,2315,Vile Parle,480.64
+236,2/4/2021,at velit,outdoor gear,70,332.27,23258.9,9214,Colaba,374.21
+237,9/9/2021,orci eget,sports equipment,54,224.38,12116.52,8353,Colaba,538.49
+238,28/11/2020,purus sit,electronics,99,370.13,36642.87,9868,Juhu,461.51
+239,24/09/2020,eget,clothing,7,188.22,1317.54,8592,Chembur,393.37
+240,4/10/2021,nisi eu,office supplies,11,81.51,896.61,8025,Bhandup,648.91
+241,25/01/2020,libero,sports equipment,5,556.99,2784.95,7132,Kurla,465.08
+242,5/6/2021,amet cursus,pet supplies,90,648.67,58380.3,6603,Ghatkopar,413.64
+243,13/03/2021,in sagittis,outdoor gear,68,462.81,31471.08,3446,Juhu,610.68
+244,2/1/2021,tempor convallis,home decor,76,903.31,68651.56,9107,Bandra,184.97
+245,13/09/2022,mauris enim,home decor,58,592.85,34385.3,2867,Worli,108.09
+246,24/10/2021,orci,kitchen appliances,5,405.84,2029.2,1420,Ghatkopar,167.18
+247,15/06/2020,adipiscing,home decor,61,597.68,36458.48,5263,Sion,155.27
+248,17/11/2020,sodales sed,beauty products,22,970.61,21353.42,9792,Sion,520.44
+249,8/2/2021,velit,pet supplies,31,74.15,2298.65,7327,Bhandup,46.87
+250,26/02/2021,et ultrices,beauty products,98,345.02,33811.96,8449,Goregaon,167.29
+251,30/08/2022,sit amet,outdoor gear,66,309.7,20440.2,5692,Navi Mumbai,415.81
+252,14/09/2020,sodales sed,sports equipment,94,48.62,4570.28,2263,Dadar,593.96
+253,14/04/2022,orci,kitchen appliances,76,429.13,32613.88,5158,Kurla,526.07
+254,17/12/2021,porttitor lorem,kitchen appliances,49,884.82,43356.18,6677,Juhu,556.66
+255,31/01/2020,lobortis,sports equipment,81,752.32,60937.92,2813,Kandivali,194.28
+256,5/8/2021,ornare consequat,pet supplies,20,166.94,3338.8,5347,Chembur,389.59
+257,2/6/2021,posuere metus,clothing,28,809.43,22664.04,4790,Bhandup,323.93
+258,9/4/2021,nisi volutpat,electronics,71,945.85,67155.35,4204,Goregaon,120.18
+259,9/10/2022,eget,kitchen appliances,68,443.66,30168.88,7530,Ghatkopar,6.07
+260,2/1/2021,aliquet,kitchen appliances,35,575.94,20157.9,7095,Dadar,391.75
+261,23/06/2020,sapien,kitchen appliances,47,768.93,36139.71,1434,Powai,568.27
+262,16/02/2020,elit,clothing,32,245.07,7842.24,2453,Malad,476.72
+263,11/11/2020,metus aenean,clothing,65,463.51,30128.15,4181,Juhu,292.83
+264,4/4/2020,vel augue,sports equipment,69,777.84,53670.96,2298,Lower Parel,134.46
+265,12/2/2020,faucibus,electronics,47,390.72,18363.84,3857,Vile Parle,446.85
+266,20/08/2022,donec ut,office supplies,37,704.62,26070.94,6866,Bhandup,552.02
+267,11/8/2021,sit amet,beauty products,20,35.22,704.4,5060,Bhandup,290.2
+268,6/3/2022,ut ultrices,electronics,32,372.78,11928.96,9813,Ghatkopar,670.04
+269,13/08/2021,viverra,outdoor gear,38,769.85,29254.3,5706,Kandivali,611.29
+270,31/01/2021,consectetuer adipiscing,clothing,20,875.11,17502.2,4366,Bandra,339.22
+271,28/02/2021,justo,sports equipment,87,810.08,70476.96,2595,Ghatkopar,249.72
+272,6/4/2022,cubilia curae,electronics,88,331.93,29209.84,8386,Mulund,135.94
+273,11/7/2020,posuere,electronics,82,7.08,580.56,7472,Goregaon,241.42
+274,31/07/2021,curabitur,beauty products,87,438.67,38164.29,1650,Ghatkopar,612.99
+275,26/07/2020,vitae,toys,30,314.42,9432.6,5384,Andheri,637.08
+276,10/12/2022,in leo,beauty products,73,884.83,64592.59,5213,Ghatkopar,99.25
+277,12/7/2020,nullam,clothing,6,453.7,2722.2,5507,Ghatkopar,355.26
+278,1/9/2022,nunc,office supplies,91,859.28,78194.48,4898,Juhu,587.33
+279,5/3/2020,ac,clothing,6,891.52,5349.12,5559,Worli,549.66
+280,28/06/2022,mus etiam,pet supplies,68,870.87,59219.16,5096,Chembur,125.46
+281,14/10/2022,integer,sports equipment,29,251.38,7290.02,1467,Colaba,378.38
+282,6/5/2021,tempor,home decor,32,825.46,26414.72,8553,Sion,460.16
+283,13/10/2020,nullam,outdoor gear,47,67.3,3163.1,7725,Sion,297.85
+284,18/03/2021,lobortis,sports equipment,26,895.92,23293.92,3234,Powai,415.97
+285,4/12/2021,mattis,pet supplies,23,55.52,1276.96,4895,Colaba,542.5
+286,1/11/2022,consectetuer,toys,5,170.07,850.35,4979,Kandivali,629.93
+287,19/08/2021,curae,outdoor gear,70,748.93,52425.1,3847,Bhandup,301.5
+288,31/08/2021,dictumst,home decor,8,494.51,3956.08,6534,Borivali,372.34
+289,7/4/2021,justo,office supplies,50,394.43,19721.5,9061,Andheri,356.16
+290,26/05/2021,fusce,electronics,9,329.6,2966.4,3146,Vile Parle,356.91
+291,3/5/2022,in consequat,office supplies,42,625.12,26255.04,6926,Andheri,680.45
+292,10/11/2021,aliquam non,outdoor gear,59,628.86,37102.74,8279,Worli,61.31
+293,17/10/2020,magna ac,sports equipment,30,974.3,29229,9684,Colaba,44.23
+294,21/09/2020,magnis dis,toys,63,395.03,24886.89,3234,Vile Parle,88.17
+295,7/12/2021,dapibus,sports equipment,56,275.12,15406.72,1453,Lower Parel,103.76
+296,18/09/2021,erat,home decor,15,793.18,11897.7,7535,Dadar,490.39
+297,3/11/2020,sed lacus,beauty products,5,711.03,3555.15,9337,Borivali,118.28
+298,7/8/2021,dolor,pet supplies,8,361.48,2891.84,8372,Navi Mumbai,645.09
+299,18/06/2021,ac,office supplies,84,931.26,78225.84,9036,Colaba,60.22
+300,21/04/2021,purus,clothing,68,915.19,62232.92,7939,Malad,128.28
+301,25/01/2022,rutrum nulla,electronics,72,677.3,48765.6,4267,Kandivali,407.68
+302,7/10/2020,in,outdoor gear,74,300.58,22242.92,4912,Ghatkopar,58.96
+303,2/3/2021,lobortis,toys,56,500.55,28030.8,2315,Goregaon,44.92
+304,30/10/2020,nulla,office supplies,68,483.58,32883.44,9640,Colaba,523.23
+305,21/02/2020,blandit ultrices,pet supplies,13,77.61,1008.93,1988,Kandivali,603.08
+306,18/01/2022,aenean lectus,beauty products,94,294.26,27660.44,1159,Sion,426.04
+307,24/11/2020,porttitor pede,office supplies,21,99.4,2087.4,6196,Malad,87.15
+308,6/2/2021,ornare imperdiet,clothing,6,268.23,1609.38,4855,Vile Parle,32.72
+309,15/09/2022,id,outdoor gear,15,205.33,3079.95,6971,Vile Parle,582.39
+310,7/8/2020,porttitor lorem,sports equipment,30,635.5,19065,5094,Navi Mumbai,198.62
+311,21/06/2022,in eleifend,sports equipment,92,843.75,77625,9012,Powai,225.55
+312,4/8/2022,amet,beauty products,74,83.88,6207.12,4338,Mulund,178
+313,13/12/2020,amet,sports equipment,93,213.99,19901.07,2318,Borivali,517.02
+314,27/12/2022,nisi,beauty products,37,486.2,17989.4,6832,Colaba,123.35
+315,9/8/2022,turpis sed,outdoor gear,32,390.14,12484.48,4743,Chembur,180.72
+316,3/6/2020,sit,electronics,51,401.88,20495.88,8461,Mulund,419.43
+317,20/12/2021,duis aliquam,clothing,96,359.54,34515.84,4438,Powai,107.45
+318,22/06/2022,curae,toys,92,258.27,23760.84,2942,Juhu,494.2
+319,22/03/2021,nisi,electronics,58,855.85,49639.3,2018,Sion,467.83
+320,29/08/2020,lacus,home decor,25,927.28,23182,9254,Mulund,150.61
+321,5/8/2022,consectetuer eget,outdoor gear,40,398.82,15952.8,2865,Borivali,338.21
+322,6/9/2022,tempus vel,kitchen appliances,78,253.08,19740.24,6251,Borivali,571.7
+323,19/10/2021,lorem,electronics,71,521.45,37022.95,8168,Kurla,421.94
+324,26/09/2022,lacus at,clothing,34,884.74,30081.16,3136,Bandra,158.19
+325,22/11/2020,id,beauty products,25,827.94,20698.5,4368,Bandra,301.77
+326,19/08/2022,odio porttitor,toys,54,694.09,37480.86,3918,Mulund,574.73
+327,29/04/2020,habitasse,outdoor gear,37,306.83,11352.71,8675,Worli,292.93
+328,17/05/2022,auctor,electronics,82,137.15,11246.3,9598,Colaba,341.58
+329,12/6/2020,penatibus et,home decor,67,216.38,14497.46,2640,Dadar,165.06
+330,19/01/2020,odio in,electronics,16,809.7,12955.2,8025,Navi Mumbai,439.78
+331,18/07/2020,placerat praesent,home decor,60,295.77,17746.2,4893,Malad,168.09
+332,26/03/2022,dapibus,electronics,59,565.05,33337.95,6047,Ghatkopar,207.88
+333,19/04/2021,vel,clothing,44,207.26,9119.44,7506,Vile Parle,92.5
+334,8/2/2021,convallis morbi,kitchen appliances,1,690,690,5659,Lower Parel,216.15
+335,8/11/2020,eget,clothing,80,443.11,35448.8,8606,Navi Mumbai,475.96
+336,12/3/2021,sed,kitchen appliances,24,809.17,19420.08,6758,Navi Mumbai,205.55
+337,10/6/2021,ipsum primis,clothing,70,729.67,51076.9,3233,Chembur,657.24
+338,27/09/2021,congue vivamus,sports equipment,40,351.19,14047.6,9924,Powai,383.99
+339,10/5/2021,convallis nulla,toys,36,127.72,4597.92,1646,Juhu,570.87
+340,22/04/2021,dui,electronics,57,181.82,10363.74,2999,Lower Parel,157.82
+341,5/6/2020,congue,sports equipment,55,359.94,19796.7,7675,Juhu,540.08
+342,16/09/2021,rutrum,beauty products,57,951.01,54207.57,1959,Andheri,369.56
+343,30/10/2021,sit,toys,92,857.27,78868.84,8034,Kandivali,225.3
+344,11/7/2020,eget,toys,70,79.61,5572.7,1174,Navi Mumbai,554.44
+345,21/08/2022,nec nisi,toys,83,227.62,18892.46,1897,Sion,431.35
+346,21/09/2020,ut rhoncus,home decor,86,105.34,9059.24,5953,Vile Parle,561.16
+347,14/02/2021,vehicula,home decor,45,289.53,13028.85,8884,Powai,40.06
+348,24/06/2022,adipiscing,office supplies,78,909.95,70976.1,7648,Vile Parle,135.82
+349,19/12/2021,morbi sem,clothing,70,729.89,51092.3,3245,Juhu,204.72
+350,16/01/2021,hac,sports equipment,99,959,94941,6838,Sion,40.37
+351,30/04/2021,convallis nulla,electronics,9,949.41,8544.69,9954,Worli,139.95
+352,20/01/2021,vel augue,office supplies,35,59.88,2095.8,9547,Powai,167.62
+353,5/6/2020,ac,outdoor gear,87,282.38,24567.06,6731,Goregaon,555.92
+354,8/6/2022,in est,electronics,98,211.51,20727.98,7995,Juhu,27.03
+355,11/8/2020,justo,home decor,50,249.4,12470,6735,Bandra,305.64
+356,21/11/2022,sem mauris,office supplies,59,767.84,45302.56,6793,Bandra,637.99
+357,30/08/2020,sit amet,pet supplies,24,577.96,13871.04,3171,Colaba,142.27
+358,12/2/2022,orci nullam,beauty products,50,872.45,43622.5,6170,Vile Parle,74.38
+359,21/08/2022,natoque penatibus,electronics,40,762.43,30497.2,9705,Chembur,511.18
+360,7/9/2022,erat,beauty products,56,10.5,588,5502,Vile Parle,631.36
+361,27/02/2020,morbi non,toys,73,792.66,57864.18,2283,Dadar,32.7
+362,4/7/2022,pede,sports equipment,65,136.77,8890.05,5224,Borivali,627.98
+363,19/12/2020,ridiculus mus,office supplies,78,519.17,40495.26,9179,Vile Parle,228.06
+364,4/4/2021,faucibus,pet supplies,67,950.89,63709.63,5030,Bandra,509.75
+365,12/10/2022,arcu,sports equipment,19,856.59,16275.21,8534,Goregaon,126.74
+366,31/07/2022,vestibulum,kitchen appliances,13,830.71,10799.23,9597,Dadar,133.74
+367,12/3/2021,lectus,home decor,39,649.08,25314.12,6964,Powai,423.21
+368,24/06/2022,tortor,outdoor gear,47,420.69,19772.43,5922,Borivali,28.66
+369,19/03/2021,maecenas rhoncus,clothing,39,737.99,28781.61,5793,Mulund,281.59
+370,24/05/2022,sit,sports equipment,21,423.5,8893.5,9849,Sion,415.38
+371,25/01/2021,nunc,outdoor gear,51,718.91,36664.41,5584,Mulund,202.51
+372,10/3/2022,eu sapien,sports equipment,93,65.61,6101.73,5758,Colaba,570.95
+373,30/05/2020,nec dui,sports equipment,27,771.42,20828.34,6455,Chembur,208.6
+374,18/04/2020,habitasse platea,pet supplies,49,692.84,33949.16,6568,Bhandup,188.28
+375,23/10/2020,turpis,kitchen appliances,74,365.25,27028.5,7821,Goregaon,593.98
+376,15/03/2020,mauris,pet supplies,66,25.52,1684.32,9190,Juhu,379.37
+377,7/8/2020,amet diam,outdoor gear,74,728.24,53889.76,7968,Chembur,374.39
+378,29/01/2021,nonummy integer,electronics,56,118.66,6644.96,8474,Worli,13.44
+379,16/12/2020,nulla,pet supplies,8,170.4,1363.2,8050,Goregaon,253.21
+380,17/10/2022,purus,office supplies,11,862.01,9482.11,9592,Navi Mumbai,246.7
+381,31/10/2022,nulla quisque,outdoor gear,85,177.23,15064.55,2579,Goregaon,644.87
+382,20/04/2020,sagittis dui,beauty products,58,899.21,52154.18,2416,Goregaon,536.6
+383,16/02/2022,ligula,office supplies,83,769.98,63908.34,9706,Lower Parel,113.11
+384,14/08/2021,pellentesque,pet supplies,50,578.94,28947,8599,Goregaon,482.74
+385,8/10/2022,amet erat,toys,79,546.99,43212.21,1150,Juhu,600.98
+386,19/02/2020,mauris eget,kitchen appliances,63,738.62,46533.06,3738,Bandra,12.29
+387,19/09/2022,quam pharetra,kitchen appliances,86,751.86,64659.96,5809,Mulund,656.31
+388,19/05/2020,volutpat eleifend,clothing,21,233.51,4903.71,2097,Juhu,33.17
+389,5/4/2021,nisl duis,electronics,43,896.29,38540.47,3108,Lower Parel,424.54
+390,26/03/2022,praesent blandit,clothing,76,795.69,60472.44,6324,Vile Parle,610.82
+391,19/09/2022,massa volutpat,beauty products,76,282.42,21463.92,5267,Bandra,642.8
+392,15/01/2020,ligula,electronics,94,588.99,55365.06,9374,Mulund,247.99
+393,14/01/2021,amet justo,office supplies,43,907.75,39033.25,5106,Powai,302.19
+394,14/07/2022,volutpat,beauty products,21,903.89,18981.69,9508,Dadar,536.07
+395,25/06/2022,pede justo,outdoor gear,98,215.16,21085.68,7627,Bhandup,126.93
+396,25/07/2021,lorem ipsum,beauty products,49,103.34,5063.66,4717,Worli,582.9
+397,17/04/2020,dignissim vestibulum,beauty products,34,479.59,16306.06,3241,Bandra,57.85
+398,20/03/2021,mi nulla,pet supplies,1,556.3,556.3,3534,Kurla,328.92
+399,7/11/2021,sed ante,electronics,95,77.63,7374.85,6548,Dadar,85.18
+400,18/06/2021,vestibulum,clothing,92,497.62,45781.04,3347,Ghatkopar,647.64
+401,21/09/2022,sem,clothing,74,975.23,72167.02,7671,Mulund,151.18
+402,3/7/2021,donec vitae,office supplies,21,922.15,19365.15,9893,Mulund,375.11
+403,1/2/2022,pede,beauty products,45,838.62,37737.9,4038,Dadar,230.51
+404,11/11/2020,maecenas leo,toys,48,521.74,25043.52,1500,Kurla,336.51
+405,25/02/2020,morbi non,clothing,26,482.98,12557.48,6493,Bhandup,370.08
+406,21/01/2022,vel nulla,beauty products,49,466.32,22849.68,6457,Malad,602.78
+407,11/12/2022,leo,home decor,77,690.6,53176.2,3723,Bandra,404.13
+408,1/7/2021,tristique,beauty products,9,96.5,868.5,9883,Malad,201.65
+409,8/5/2020,integer,kitchen appliances,96,475.81,45677.76,3875,Bandra,323.87
+410,15/01/2021,sagittis,home decor,45,417.68,18795.6,2205,Ghatkopar,130.96
+411,26/06/2021,et,electronics,50,830.75,41537.5,4305,Kandivali,535.02
+412,14/01/2020,rhoncus mauris,clothing,73,17.15,1251.95,4667,Malad,389.4
+413,9/8/2021,pharetra,clothing,42,856.06,35954.52,6532,Andheri,649.3
+414,23/11/2022,faucibus cursus,kitchen appliances,90,756.12,68050.8,7194,Dadar,459.15
+415,6/11/2020,et,home decor,33,767.38,25323.54,7873,Borivali,54.49
+416,16/09/2021,ut,kitchen appliances,66,771.04,50888.64,9813,Navi Mumbai,479.6
+417,25/01/2022,sociis,sports equipment,92,815.05,74984.6,2318,Borivali,309.34
+418,28/04/2021,in hac,toys,6,611.79,3670.74,9939,Borivali,592.99
+419,31/10/2022,praesent blandit,electronics,44,121.22,5333.68,4758,Colaba,241.07
+420,7/3/2020,morbi,toys,16,530.74,8491.84,5101,Juhu,459.53
+421,12/12/2022,donec,home decor,51,32.03,1633.53,1968,Vile Parle,316.41
+422,4/1/2020,lacinia,sports equipment,31,1.54,47.74,1751,Colaba,551.62
+423,30/05/2022,turpis,toys,53,948.84,50288.52,7153,Navi Mumbai,653.66
+424,11/6/2021,eleifend,clothing,77,951.16,73239.32,5843,Borivali,519.43
+425,22/04/2020,est risus,kitchen appliances,72,317.06,22828.32,4093,Bhandup,449.14
+426,13/03/2020,a nibh,beauty products,10,717.6,7176,9791,Juhu,545.06
+427,21/08/2020,fusce,kitchen appliances,36,350.21,12607.56,2546,Kandivali,252.75
+428,8/12/2021,scelerisque mauris,beauty products,41,575.75,23605.75,7837,Navi Mumbai,263.34
+429,15/08/2022,dolor,office supplies,42,21.82,916.44,9444,Dadar,278.27
+430,9/2/2022,nascetur,sports equipment,10,223.54,2235.4,7272,Chembur,418.72
+431,1/10/2020,potenti,outdoor gear,70,599.67,41976.9,6505,Worli,227.26
+432,12/2/2021,posuere cubilia,home decor,14,553.72,7752.08,7077,Mulund,4.98
+433,10/2/2020,cursus urna,kitchen appliances,15,378.54,5678.1,1417,Juhu,402.4
+434,3/12/2022,dapibus,clothing,48,34.26,1644.48,2064,Chembur,452.82
+435,27/02/2022,eu pede,pet supplies,63,428.3,26982.9,2738,Andheri,32.1
+436,29/12/2022,pretium iaculis,office supplies,93,363.12,33770.16,4377,Chembur,330.06
+437,17/03/2021,augue vel,beauty products,21,794.27,16679.67,1784,Mulund,188.6
+438,18/03/2020,consequat,beauty products,11,702.13,7723.43,6039,Worli,362.89
+439,26/02/2022,in,office supplies,20,166.27,3325.4,4169,Navi Mumbai,153.9
+440,12/6/2021,eros,electronics,8,916.01,7328.08,9492,Kandivali,75.35
+441,20/02/2020,enim in,electronics,98,523.88,51340.24,2634,Powai,418.79
+442,20/01/2020,habitasse platea,toys,12,112.57,1350.84,7420,Malad,257.25
+443,19/04/2021,eu,home decor,75,356.64,26748,1451,Goregaon,251.63
+444,19/12/2021,nibh fusce,home decor,53,637.32,33777.96,1595,Bhandup,293.67
+445,12/3/2021,blandit,outdoor gear,15,410.03,6150.45,4806,Powai,43.5
+446,19/12/2022,praesent id,pet supplies,22,863.97,19007.34,8884,Powai,258.42
+447,20/04/2022,turpis,office supplies,41,417.12,17101.92,6294,Juhu,110.33
+448,6/12/2022,penatibus et,clothing,3,88.82,266.46,5746,Kurla,627.59
+449,2/8/2022,massa,toys,80,507.45,40596,6343,Lower Parel,75.73
+450,20/01/2022,adipiscing molestie,beauty products,31,265.22,8221.82,3164,Mulund,130.92
+451,18/03/2022,a,toys,92,432.86,39823.12,3901,Powai,562.93
+452,4/5/2021,lectus,sports equipment,72,322.87,23246.64,4030,Bandra,67.85
+453,6/11/2020,dui,office supplies,48,158.71,7618.08,4622,Bhandup,198.38
+454,27/02/2021,erat vestibulum,beauty products,54,711.08,38398.32,8221,Bandra,35.34
+455,27/01/2022,diam,kitchen appliances,70,841.82,58927.4,8256,Dadar,602.06
+456,25/08/2020,ac nibh,sports equipment,63,952.63,60015.69,7527,Juhu,418.15
+457,15/11/2021,lacus,home decor,19,709.49,13480.31,2521,Colaba,219.4
+458,10/3/2020,cubilia,office supplies,25,322.67,8066.75,9420,Andheri,12.77
+459,21/04/2022,pharetra magna,sports equipment,37,406.86,15053.82,9286,Bandra,542.28
+460,21/07/2022,suspendisse,electronics,58,703.21,40786.18,1303,Worli,264.13
+461,24/10/2022,in,office supplies,72,746.2,53726.4,7003,Juhu,216.74
+462,7/12/2020,venenatis non,clothing,15,853.46,12801.9,4742,Bhandup,226.81
+463,23/02/2020,orci luctus,outdoor gear,16,970.86,15533.76,6938,Worli,552.57
+464,24/06/2020,pede,electronics,59,456.31,26922.29,9013,Malad,149.58
+465,6/5/2021,nunc,home decor,3,344.2,1032.6,2528,Kurla,247.18
+466,24/09/2022,etiam pretium,electronics,38,5.64,214.32,9812,Navi Mumbai,150.87
+467,24/07/2021,laoreet ut,pet supplies,72,727.62,52388.64,4241,Navi Mumbai,645.18
+468,22/09/2022,potenti nullam,electronics,64,224.05,14339.2,9340,Kandivali,538.82
+469,29/01/2021,ut erat,outdoor gear,10,737.67,7376.7,6352,Powai,591.62
+470,29/04/2020,justo,clothing,10,564.36,5643.6,6216,Mulund,482.56
+471,25/06/2021,ultrices,clothing,97,261.6,25375.2,6656,Kurla,630.86
+472,6/10/2020,lacinia eget,home decor,36,49.1,1767.6,9302,Andheri,276.74
+473,1/12/2020,nibh in,home decor,71,909.65,64585.15,3022,Kandivali,84.66
+474,25/02/2020,aenean,toys,84,985.98,82822.32,1423,Navi Mumbai,416.46
+475,9/10/2021,quam pharetra,toys,33,427.89,14120.37,7000,Bandra,269.21
+476,16/03/2020,magnis,home decor,61,931.58,56826.38,8140,Juhu,282.26
+477,17/05/2021,felis sed,office supplies,72,81.31,5854.32,9678,Colaba,687.15
+478,2/7/2020,ac enim,home decor,32,37.03,1184.96,1402,Colaba,85.14
+479,6/4/2020,odio consequat,toys,9,19.77,177.93,8055,Vile Parle,359.2
+480,10/9/2022,tincidunt in,beauty products,55,51.43,2828.65,1029,Navi Mumbai,437.23
+481,15/09/2021,id,electronics,100,171.2,17120,1703,Worli,63.66
+482,12/8/2020,etiam vel,electronics,88,804.26,70774.88,1814,Vile Parle,688.29
+483,26/02/2022,augue,office supplies,52,22.34,1161.68,8692,Juhu,686.89
+484,18/12/2020,semper,electronics,61,8.62,525.82,3745,Kandivali,488.96
+485,26/04/2021,luctus,pet supplies,18,187.73,3379.14,9627,Kandivali,381.71
+486,9/9/2021,sed augue,clothing,99,859.97,85137.03,2048,Mulund,315.82
+487,25/06/2021,orci,sports equipment,24,747.64,17943.36,2431,Chembur,276.76
+488,9/11/2022,rutrum nulla,office supplies,52,640.05,33282.6,8064,Colaba,648.88
+489,13/01/2020,montes nascetur,sports equipment,65,658.16,42780.4,2891,Juhu,394.48
+490,5/7/2020,pellentesque,office supplies,72,927.44,66775.68,8097,Colaba,11.21
+491,5/11/2021,duis bibendum,toys,50,852.56,42628,9589,Vile Parle,354.31
+492,1/11/2021,condimentum,clothing,37,338.37,12519.69,9141,Lower Parel,357.75
+493,3/6/2021,etiam,outdoor gear,34,340.22,11567.48,1918,Lower Parel,187.37
+494,6/6/2021,cras mi,beauty products,24,928.46,22283.04,3824,Vile Parle,142.93
+495,27/04/2020,sed,clothing,42,196.37,8247.54,1614,Lower Parel,196.68
+496,10/9/2022,nulla pede,toys,1,732.91,732.91,3693,Sion,696.06
+497,10/5/2022,in,sports equipment,88,641.39,56442.32,1455,Ghatkopar,349.3
+498,26/05/2020,congue diam,outdoor gear,80,717.9,57432,7468,Borivali,696.98
+499,8/10/2021,cursus urna,kitchen appliances,9,621.49,5593.41,9444,Borivali,593.55
+500,22/06/2022,enim,toys,97,800.87,77684.39,7440,Sion,360.69
+501,1/10/2021,nunc,kitchen appliances,67,278.62,18667.54,6936,Vile Parle,394.82
+502,8/12/2021,molestie sed,sports equipment,58,897.65,52063.7,8289,Navi Mumbai,539.37
+503,11/11/2021,justo lacinia,pet supplies,39,551.43,21505.77,7014,Bhandup,53.33
+504,19/10/2020,augue,beauty products,17,986.66,16773.22,9956,Worli,358.21
+505,24/08/2022,dolor sit,toys,71,671.3,47662.3,4228,Kandivali,1.93
+506,14/01/2020,est,electronics,92,346.34,31863.28,8553,Worli,690.75
+507,26/04/2022,arcu,outdoor gear,26,909.32,23642.32,1235,Navi Mumbai,560.2
+508,14/04/2022,vulputate,pet supplies,57,927.78,52883.46,1312,Borivali,78.34
+509,10/11/2020,est,toys,30,626.22,18786.6,6141,Andheri,200.92
+510,22/12/2022,nibh in,sports equipment,6,957.09,5742.54,6686,Kandivali,85.42
+511,26/05/2022,dictumst,toys,91,731.37,66554.67,7636,Borivali,365.96
+512,5/7/2022,sit amet,home decor,3,281.96,845.88,7617,Bandra,280.92
+513,19/01/2022,nullam molestie,outdoor gear,76,547.25,41591,3458,Kurla,446.22
+514,11/2/2022,duis,toys,29,342.59,9935.11,7108,Sion,690.36
+515,13/08/2022,non,clothing,73,722.81,52765.13,4934,Sion,216.7
+516,7/12/2020,in,clothing,15,75.6,1134,1233,Goregaon,574.91
+517,6/7/2020,sapien,beauty products,36,711.02,25596.72,7363,Mulund,540.66
+518,3/7/2022,placerat,electronics,50,775.66,38783,4485,Borivali,347.61
+519,8/1/2022,feugiat non,pet supplies,5,969.21,4846.05,5310,Borivali,400.5
+520,31/10/2021,velit,sports equipment,79,579.27,45762.33,1237,Colaba,626.94
+521,2/12/2020,aliquam,office supplies,9,791.07,7119.63,6779,Bandra,567.8
+522,23/10/2020,orci,electronics,50,881.56,44078,7290,Ghatkopar,639.53
+523,1/1/2022,nonummy maecenas,pet supplies,32,289.24,9255.68,3530,Bandra,111.65
+524,26/10/2020,amet sem,electronics,35,471.24,16493.4,2689,Bhandup,659.05
+525,27/02/2020,platea,office supplies,36,584.43,21039.48,4629,Malad,314.55
+526,19/11/2021,massa,sports equipment,15,2.44,36.6,8695,Lower Parel,588.74
+527,28/06/2021,sit amet,outdoor gear,84,156.86,13176.24,2173,Lower Parel,434.2
+528,15/09/2020,purus,outdoor gear,99,331.81,32849.19,4064,Lower Parel,27.87
+529,7/11/2021,dictumst,kitchen appliances,88,565.63,49775.44,6345,Juhu,74.22
+530,17/12/2020,eu mi,electronics,49,611.38,29957.62,8001,Malad,419.35
+531,18/02/2020,gravida sem,sports equipment,54,163.32,8819.28,1632,Bhandup,601.6
+532,9/4/2020,curabitur convallis,sports equipment,35,937.31,32805.85,6885,Juhu,402.91
+533,1/9/2021,ante,sports equipment,95,919.68,87369.6,9034,Malad,299.5
+534,4/6/2020,volutpat convallis,clothing,35,860,30100,9455,Bhandup,28.88
+535,20/01/2020,quisque ut,electronics,61,19.52,1190.72,3416,Colaba,304.46
+536,13/06/2022,ante,sports equipment,92,433.7,39900.4,9751,Navi Mumbai,300.96
+537,17/10/2022,orci,beauty products,53,415.73,22033.69,8891,Ghatkopar,526.85
+538,31/08/2021,proin,outdoor gear,99,342.97,33954.03,5756,Kandivali,299.4
+539,28/04/2022,auctor gravida,electronics,100,540.89,54089,3646,Bandra,125.47
+540,31/07/2021,vivamus tortor,pet supplies,33,276.57,9126.81,5828,Navi Mumbai,83.81
+541,25/03/2022,potenti nullam,beauty products,79,475.19,37540.01,6947,Navi Mumbai,229.79
+542,27/11/2020,in,electronics,84,913.98,76774.32,5253,Goregaon,698.92
+543,15/05/2020,suscipit,beauty products,96,168.74,16199.04,5996,Goregaon,302.57
+544,22/12/2022,massa quis,home decor,89,933.1,83045.9,3048,Vile Parle,42.89
+545,2/1/2022,condimentum,kitchen appliances,34,862.96,29340.64,9642,Lower Parel,428.96
+546,24/11/2020,in libero,kitchen appliances,57,691.07,39390.99,9511,Dadar,544.66
+547,3/10/2020,ornare,home decor,77,912.63,70272.51,7603,Sion,61.24
+548,16/09/2020,eleifend pede,pet supplies,5,289.08,1445.4,4802,Juhu,282.29
+549,31/07/2021,volutpat,beauty products,64,870.76,55728.64,8016,Kurla,485.45
+550,18/09/2022,lacus,kitchen appliances,85,318.54,27075.9,8008,Chembur,511.42
+551,16/12/2020,in,sports equipment,9,501.05,4509.45,1415,Chembur,356.6
+552,28/03/2020,ultrices,home decor,92,917.15,84377.8,5349,Kandivali,365.51
+553,14/09/2020,urna ut,outdoor gear,95,542.51,51538.45,9150,Bandra,232.41
+554,13/07/2021,porttitor,outdoor gear,81,409.65,33181.65,9608,Dadar,651.86
+555,28/02/2021,non velit,electronics,45,61.08,2748.6,6276,Borivali,430
+556,12/10/2021,sociis natoque,office supplies,83,943.77,78332.91,9984,Ghatkopar,300.23
+557,7/5/2020,rhoncus mauris,office supplies,90,30.07,2706.3,4308,Dadar,543.7
+558,10/10/2020,semper,electronics,69,106.14,7323.66,2333,Ghatkopar,174.66
+559,30/08/2020,tempus,sports equipment,25,258.51,6462.75,2502,Ghatkopar,274.24
+560,18/03/2020,a feugiat,clothing,62,210.8,13069.6,8259,Kandivali,217.34
+561,16/01/2020,pede malesuada,electronics,16,892.29,14276.64,7112,Goregaon,391.15
+562,11/6/2020,ante,clothing,81,582.91,47215.71,2385,Powai,625.69
+563,15/03/2022,tempor,kitchen appliances,40,242.17,9686.8,6609,Borivali,277.33
+564,25/07/2021,molestie,clothing,73,481.67,35161.91,3785,Bhandup,694.48
+565,4/2/2021,nullam,toys,27,838.45,22638.15,4765,Navi Mumbai,251.65
+566,27/05/2021,vestibulum sed,beauty products,8,684.16,5473.28,3208,Lower Parel,382.28
+567,22/08/2020,luctus ultricies,kitchen appliances,35,789.14,27619.9,4821,Andheri,454.33
+568,16/11/2020,in,toys,45,482.66,21719.7,1099,Colaba,139.56
+569,2/2/2022,nulla dapibus,office supplies,27,665.54,17969.58,3204,Colaba,99.93
+570,2/9/2020,lorem id,home decor,2,968.68,1937.36,4731,Andheri,175.18
+571,4/4/2022,curabitur gravida,pet supplies,8,572.32,4578.56,5863,Navi Mumbai,163.99
+572,5/8/2020,sed nisl,pet supplies,22,446.9,9831.8,2527,Navi Mumbai,8.35
+573,3/8/2021,nam,kitchen appliances,83,606.7,50356.1,6471,Worli,538.51
+574,21/09/2021,id,pet supplies,98,411.85,40361.3,8982,Dadar,360.11
+575,22/01/2022,diam in,electronics,53,208.6,11055.8,9009,Colaba,626.16
+576,16/06/2022,quisque erat,pet supplies,48,609.3,29246.4,9060,Chembur,558.73
+577,27/03/2021,faucibus,pet supplies,100,602.25,60225,5235,Malad,321.27
+578,16/08/2021,erat eros,electronics,5,522,2610,2851,Borivali,439.11
+579,4/4/2021,id,home decor,44,206.28,9076.32,2619,Mulund,329.96
+580,30/03/2022,ut,clothing,64,108.93,6971.52,9478,Vile Parle,379.69
+581,13/11/2022,nunc proin,toys,94,229.43,21566.42,8861,Andheri,478.09
+582,24/07/2021,consequat lectus,sports equipment,75,132.73,9954.75,8099,Worli,211.28
+583,8/1/2020,pulvinar,pet supplies,39,650.91,25385.49,3079,Malad,563.56
+584,25/02/2020,platea,office supplies,18,436.3,7853.4,2533,Colaba,392.28
+585,11/2/2022,rutrum neque,electronics,8,787.11,6296.88,3825,Goregaon,519.34
+586,23/01/2020,ullamcorper augue,clothing,67,561.98,37652.66,9383,Bhandup,101.38
+587,21/02/2022,congue vivamus,electronics,70,318.06,22264.2,5968,Mulund,571.82
+588,2/6/2020,sed,outdoor gear,40,297.04,11881.6,8779,Vile Parle,173.02
+589,11/5/2022,elementum pellentesque,office supplies,37,822.8,30443.6,3463,Lower Parel,528.9
+590,20/05/2021,ut,clothing,98,155.17,15206.66,7231,Borivali,263.2
+591,30/08/2020,tempus,kitchen appliances,97,532.4,51642.8,3026,Borivali,125.41
+592,20/06/2020,sociis natoque,sports equipment,8,212.03,1696.24,2707,Mulund,585.82
+593,10/4/2021,risus,beauty products,95,935.5,88872.5,2685,Bhandup,254.76
+594,9/10/2021,aliquam sit,sports equipment,72,962.47,69297.84,1445,Dadar,333.96
+595,29/01/2021,neque sapien,pet supplies,27,881.85,23809.95,8548,Mulund,511.6
+596,21/04/2020,justo sollicitudin,toys,96,46.43,4457.28,5484,Malad,576.66
+597,8/5/2022,bibendum felis,outdoor gear,69,734.34,50669.46,1389,Kurla,575.9
+598,26/01/2020,lobortis,kitchen appliances,23,155.97,3587.31,1207,Kandivali,577.02
+599,25/06/2022,tempus semper,beauty products,58,848.61,49219.38,7645,Juhu,249.61
+600,16/01/2020,ante vel,clothing,8,805.78,6446.24,2508,Bhandup,599.88
+601,27/01/2020,ligula,office supplies,38,395.57,15031.66,2983,Vile Parle,103.37
+602,28/12/2020,eu,beauty products,20,27.14,542.8,9218,Chembur,72.94
+603,27/08/2022,nulla,clothing,26,643.52,16731.52,9533,Powai,43.32
+604,31/12/2020,ante ipsum,beauty products,10,693.55,6935.5,2555,Kandivali,527.09
+605,6/2/2022,nunc donec,home decor,14,958.84,13423.76,8558,Andheri,631.35
+606,22/07/2020,aliquet,outdoor gear,48,70.84,3400.32,2348,Ghatkopar,146.09
+607,3/10/2020,turpis a,sports equipment,93,486.06,45203.58,8851,Powai,588.76
+608,4/12/2022,volutpat,pet supplies,75,61.58,4618.5,6872,Juhu,371.48
+609,6/8/2020,aenean fermentum,office supplies,95,843.73,80154.35,5652,Bandra,474.37
+610,27/08/2022,morbi,electronics,46,532.35,24488.1,4428,Navi Mumbai,253.69
+611,11/7/2021,iaculis congue,clothing,13,747.8,9721.4,1385,Ghatkopar,267.65
+612,12/10/2022,convallis,clothing,55,803.24,44178.2,4668,Kandivali,217.16
+613,12/12/2021,aenean,office supplies,1,145.09,145.09,1180,Chembur,537.89
+614,8/6/2020,semper,office supplies,58,541.04,31380.32,7739,Juhu,332.38
+615,11/1/2020,rhoncus aliquet,toys,59,899.72,53083.48,5176,Bandra,333.83
+616,27/04/2021,vivamus,outdoor gear,3,482.32,1446.96,8057,Dadar,107.8
+617,20/08/2020,eu est,sports equipment,10,338.8,3388,1581,Mulund,123.91
+618,22/01/2021,cubilia curae,home decor,17,857.38,14575.46,9178,Juhu,158.46
+619,19/12/2020,nisl ut,outdoor gear,28,694.56,19447.68,3174,Bandra,201.54
+620,1/7/2020,quis,pet supplies,28,391.91,10973.48,1061,Lower Parel,354.24
+621,25/11/2022,pede,beauty products,6,990.84,5945.04,5539,Goregaon,169.65
+622,1/4/2021,amet cursus,clothing,6,731.04,4386.24,7726,Navi Mumbai,316.03
+623,27/06/2021,imperdiet,kitchen appliances,17,394.89,6713.13,1545,Sion,563.78
+624,11/9/2020,sodales scelerisque,pet supplies,22,381.01,8382.22,9783,Andheri,687.72
+625,2/7/2020,fermentum donec,pet supplies,29,705.48,20458.92,8480,Kandivali,541.1
+626,8/2/2022,nec,beauty products,25,445.62,11140.5,7940,Powai,514.68
+627,19/12/2022,pellentesque,sports equipment,5,588.48,2942.4,8863,Mulund,341.32
+628,9/5/2022,pellentesque at,beauty products,28,12.42,347.76,6442,Worli,260.01
+629,9/9/2022,nunc viverra,kitchen appliances,67,905.17,60646.39,2521,Dadar,226.16
+630,19/02/2022,in blandit,beauty products,78,667.24,52044.72,1279,Vile Parle,510.82
+631,24/04/2022,in sapien,pet supplies,28,585.51,16394.28,2719,Colaba,201.19
+632,30/04/2020,sapien,electronics,15,285.85,4287.75,4868,Bandra,353.16
+633,12/10/2022,maecenas tristique,clothing,28,326.27,9135.56,5520,Powai,198.46
+634,12/8/2022,adipiscing,kitchen appliances,54,274.4,14817.6,6352,Goregaon,611.24
+635,14/01/2021,augue vel,sports equipment,13,582.33,7570.29,8427,Sion,61.88
+636,23/05/2020,potenti,toys,4,511.9,2047.6,8498,Mulund,275.72
+637,10/7/2022,eu,home decor,68,165.29,11239.72,3642,Andheri,377.24
+638,19/02/2022,eget vulputate,clothing,45,626.69,28201.05,6420,Goregaon,300.17
+639,5/6/2022,est phasellus,sports equipment,10,70,700,5441,Colaba,305.39
+640,9/2/2021,sapien,kitchen appliances,37,342.75,12681.75,4141,Ghatkopar,696.98
+641,22/11/2020,proin leo,sports equipment,15,914.77,13721.55,5759,Ghatkopar,411.98
+642,11/10/2020,hac habitasse,pet supplies,88,354.11,31161.68,2810,Dadar,629.3
+643,30/12/2021,accumsan odio,office supplies,98,537.23,52648.54,9016,Ghatkopar,42.09
+644,15/08/2022,posuere,pet supplies,16,163.53,2616.48,6365,Goregaon,5.68
+645,6/2/2022,id,outdoor gear,79,70.22,5547.38,6052,Worli,313.03
+646,24/02/2020,lobortis,clothing,79,121.16,9571.64,5290,Dadar,75.15
+647,14/12/2020,ipsum,office supplies,70,693.95,48576.5,6430,Malad,574.01
+648,16/05/2022,eu tincidunt,office supplies,87,281.16,24460.92,7548,Worli,221.36
+649,23/04/2022,in hac,home decor,2,839.97,1679.94,7625,Andheri,175.43
+650,21/08/2021,quis turpis,beauty products,16,707.79,11324.64,6388,Worli,565.84
+651,30/05/2021,nullam,electronics,39,81.12,3163.68,3594,Lower Parel,108.15
+652,3/9/2022,sollicitudin,outdoor gear,76,557.26,42351.76,7844,Chembur,63.85
+653,22/09/2022,ligula,home decor,79,942.29,74440.91,7424,Bandra,434.47
+654,24/01/2022,ultricies eu,sports equipment,55,913.1,50220.5,1422,Worli,315.91
+655,27/08/2021,suspendisse,home decor,37,722.21,26721.77,5794,Powai,518.97
+656,11/11/2020,parturient montes,beauty products,79,198.47,15679.13,3232,Juhu,572.67
+657,20/02/2022,lacinia nisi,beauty products,14,176.88,2476.32,8103,Ghatkopar,376.03
+658,20/12/2021,venenatis,toys,1,771.34,771.34,4089,Powai,119
+659,13/03/2020,ligula,pet supplies,71,582.77,41376.67,7383,Goregaon,256
+660,10/11/2021,magna,kitchen appliances,69,115.48,7968.12,8767,Sion,591.76
+661,8/1/2021,pulvinar nulla,pet supplies,48,997.64,47886.72,2064,Kandivali,172.63
+662,26/04/2021,ac,beauty products,28,532.8,14918.4,1639,Goregaon,187.34
+663,14/12/2021,tristique fusce,pet supplies,27,519.89,14037.03,4261,Chembur,396.77
+664,26/05/2022,nam,electronics,46,962.43,44271.78,7168,Juhu,492.81
+665,18/10/2021,id,office supplies,81,966.39,78277.59,5919,Juhu,526.39
+666,27/03/2022,pretium,beauty products,14,213.65,2991.1,2843,Bhandup,236.62
+667,2/8/2020,nibh,pet supplies,75,864.9,64867.5,5601,Borivali,679.51
+668,24/04/2021,posuere felis,office supplies,91,838.85,76335.35,6808,Mulund,301.07
+669,30/11/2020,ultrices posuere,electronics,9,258.16,2323.44,6675,Powai,653.92
+670,4/1/2021,curabitur,pet supplies,50,917.77,45888.5,6989,Sion,50.19
+671,8/3/2021,pellentesque ultrices,clothing,71,38.48,2732.08,7630,Colaba,201.22
+672,13/07/2020,ut,outdoor gear,62,640.81,39730.22,7623,Powai,156.44
+673,6/4/2020,sit,beauty products,19,549.56,10441.64,9976,Lower Parel,170.54
+674,10/8/2022,eleifend pede,electronics,1,346.62,346.62,4291,Worli,485.48
+675,17/10/2021,ut,home decor,63,827.05,52104.15,2583,Vile Parle,258.72
+676,25/07/2022,erat nulla,home decor,41,262.46,10760.86,3980,Kurla,494.48
+677,25/02/2022,at nunc,clothing,50,539.14,26957,4325,Colaba,542.15
+678,30/04/2020,nisi,electronics,1,102.31,102.31,4656,Andheri,17.22
+679,7/6/2021,vestibulum,electronics,84,888.93,74670.12,6142,Powai,347.94
+680,9/9/2022,nunc purus,electronics,44,902.69,39718.36,8602,Malad,212.15
+681,22/11/2021,sem,sports equipment,44,776.19,34152.36,8276,Kurla,347.26
+682,20/09/2021,etiam justo,outdoor gear,86,272.71,23453.06,8371,Andheri,508.96
+683,4/6/2021,habitasse,office supplies,34,734.58,24975.72,7584,Goregaon,584.01
+684,2/9/2020,scelerisque mauris,electronics,39,564.63,22020.57,9402,Lower Parel,653.2
+685,1/1/2020,viverra,outdoor gear,66,948.24,62583.84,9007,Mulund,311.67
+686,28/02/2022,massa,beauty products,58,11.5,667,4011,Kurla,10.64
+687,18/06/2021,rhoncus,pet supplies,48,555.38,26658.24,1414,Kandivali,57.87
+688,3/12/2021,in,clothing,55,271.24,14918.2,9499,Juhu,455.85
+689,29/11/2022,non mi,electronics,77,467.51,35998.27,1917,Colaba,295.18
+690,25/04/2020,vitae nisl,pet supplies,49,454.28,22259.72,6518,Juhu,626.74
+691,30/01/2022,velit vivamus,beauty products,5,117.4,587,4312,Kurla,267.9
+692,22/06/2020,odio curabitur,office supplies,45,814.58,36656.1,9934,Dadar,438.29
+693,21/01/2021,tincidunt,outdoor gear,71,868.53,61665.63,9243,Kandivali,536.66
+694,15/05/2022,in porttitor,toys,43,989.36,42542.48,9979,Lower Parel,626.97
+695,5/6/2022,amet sapien,home decor,8,97.35,778.8,1963,Sion,151.96
+696,4/12/2021,eleifend,beauty products,8,616.06,4928.48,8851,Ghatkopar,47.65
+697,3/4/2021,vulputate elementum,sports equipment,40,192.56,7702.4,7028,Lower Parel,668.15
+698,4/1/2021,in libero,beauty products,72,462.06,33268.32,9825,Bhandup,306.22
+699,14/03/2022,erat,outdoor gear,5,315.35,1576.75,9921,Andheri,158.84
+700,9/1/2022,ultrices,electronics,36,451.71,16261.56,9758,Powai,146.11
+701,2/3/2021,vitae,kitchen appliances,70,226.53,15857.1,1353,Bhandup,520.8
+702,29/04/2022,accumsan odio,toys,18,246.6,4438.8,8477,Lower Parel,68.32
+703,2/11/2022,rhoncus,beauty products,9,634.03,5706.27,9704,Bhandup,446.52
+704,9/1/2020,tempus,toys,20,527.17,10543.4,9321,Bandra,141.11
+705,21/02/2022,etiam vel,outdoor gear,3,804.38,2413.14,8427,Navi Mumbai,114.11
+706,17/03/2020,consequat ut,beauty products,6,689.84,4139.04,4171,Goregaon,127.41
+707,10/1/2020,mollis molestie,toys,87,811.45,70596.15,8726,Juhu,214.85
+708,7/2/2020,maecenas,outdoor gear,21,133.39,2801.19,4900,Vile Parle,91.2
+709,15/06/2020,tincidunt in,office supplies,57,853.35,48640.95,6195,Lower Parel,9.21
+710,16/05/2022,morbi non,beauty products,81,192.05,15556.05,6846,Kurla,149.37
+711,23/09/2020,metus,toys,15,807.5,12112.5,9441,Kandivali,379.28
+712,3/3/2021,lorem id,office supplies,56,521.21,29187.76,3286,Malad,109.71
+713,17/01/2021,sodales,pet supplies,20,141.12,2822.4,4804,Mulund,634.97
+714,9/9/2020,ultrices posuere,pet supplies,15,713.2,10698,5729,Lower Parel,61.55
+715,22/03/2022,nunc,sports equipment,85,988.83,84050.55,2418,Powai,236.84
+716,21/06/2021,primis,electronics,75,461.11,34583.25,3102,Vile Parle,480.12
+717,19/02/2021,aliquam erat,office supplies,20,456.17,9123.4,5866,Worli,112.68
+718,11/5/2022,nullam,outdoor gear,42,879.01,36918.42,1016,Kurla,234.27
+719,27/08/2021,cubilia curae,clothing,5,408.73,2043.65,1669,Ghatkopar,255.16
+720,6/3/2022,pulvinar,kitchen appliances,82,346.65,28425.3,2580,Chembur,693.38
+721,19/03/2021,eu,kitchen appliances,62,90.3,5598.6,6229,Ghatkopar,547.07
+722,12/10/2020,ultrices,sports equipment,44,274.79,12090.76,7330,Chembur,528.07
+723,9/3/2022,dui vel,home decor,22,299.94,6598.68,6351,Bandra,367.43
+724,21/09/2021,nulla nunc,home decor,4,630.14,2520.56,2435,Dadar,297.28
+725,11/1/2021,pede,electronics,72,400.55,28839.6,8777,Malad,276.62
+726,13/09/2021,rutrum at,home decor,2,882.23,1764.46,1683,Kurla,362.9
+727,18/09/2022,fusce,outdoor gear,92,348.91,32099.72,8610,Andheri,672.77
+728,15/01/2021,vestibulum,toys,30,595.68,17870.4,5907,Kandivali,298.79
+729,14/05/2022,aenean,sports equipment,70,843.81,59066.7,2608,Dadar,133.53
+730,6/3/2021,eu felis,toys,81,710.65,57562.65,2718,Navi Mumbai,183.96
+731,6/7/2021,sed,toys,14,967.87,13550.18,8767,Chembur,658.95
+732,24/07/2022,mattis,toys,59,99.18,5851.62,4801,Bhandup,185.65
+733,16/01/2022,quisque,pet supplies,18,76.1,1369.8,3769,Vile Parle,137.08
+734,29/04/2022,bibendum,kitchen appliances,51,342.07,17445.57,6398,Kurla,82.65
+735,13/11/2021,posuere,electronics,98,672.29,65884.42,4205,Chembur,157.59
+736,24/04/2021,quis turpis,toys,63,597.75,37658.25,1733,Chembur,328.35
+737,3/2/2020,gravida nisi,beauty products,25,453.81,11345.25,8782,Andheri,48.67
+738,30/06/2022,est et,home decor,77,214.82,16541.14,8261,Worli,661.46
+739,30/10/2022,lacus morbi,clothing,9,694.92,6254.28,4141,Chembur,441.67
+740,22/04/2021,lorem,sports equipment,18,58.31,1049.58,1349,Malad,530.87
+741,1/3/2021,vel dapibus,home decor,49,813.47,39860.03,6697,Powai,78.19
+742,17/01/2022,et,home decor,10,646.34,6463.4,4111,Colaba,237.14
+743,23/06/2020,est phasellus,clothing,12,314.66,3775.92,7239,Kandivali,526.7
+744,14/03/2020,in,beauty products,87,649.99,56549.13,3907,Mulund,638.62
+745,24/04/2021,pellentesque viverra,sports equipment,26,953.92,24801.92,9224,Worli,537.67
+746,28/07/2021,pharetra,pet supplies,55,779.43,42868.65,7319,Colaba,97.12
+747,6/9/2021,potenti,kitchen appliances,14,278.42,3897.88,9525,Worli,477.82
+748,14/10/2021,dictumst aliquam,sports equipment,63,593.55,37393.65,6341,Colaba,352.87
+749,20/04/2021,posuere,home decor,63,815.07,51349.41,5577,Powai,277.82
+750,20/01/2021,at,outdoor gear,41,268.28,10999.48,6897,Kurla,586.79
+751,7/6/2020,diam,beauty products,69,674.42,46534.98,5667,Andheri,156.95
+752,22/07/2021,praesent,outdoor gear,99,451.06,44654.94,5056,Goregaon,663.35
+753,13/04/2021,pede,toys,3,398.51,1195.53,5135,Chembur,168.96
+754,11/2/2020,fusce posuere,kitchen appliances,68,910.93,61943.24,8223,Andheri,517.36
+755,19/02/2021,placerat,clothing,17,696.82,11845.94,5856,Borivali,290.42
+756,11/9/2021,semper sapien,kitchen appliances,74,296.98,21976.52,7930,Navi Mumbai,498.86
+757,3/12/2021,venenatis,sports equipment,31,491.37,15232.47,4718,Malad,698.14
+758,21/07/2022,elementum,office supplies,60,593.84,35630.4,6513,Kandivali,414.24
+759,14/02/2021,molestie,sports equipment,84,578.92,48629.28,9717,Worli,145.63
+760,9/1/2020,viverra diam,toys,81,603.45,48879.45,2130,Worli,305.3
+761,9/1/2020,aliquam quis,beauty products,90,812.6,73134,5986,Mulund,617.58
+762,5/1/2022,posuere nonummy,electronics,27,885.75,23915.25,1865,Andheri,180.42
+763,9/1/2020,imperdiet,clothing,84,713.92,59969.28,6320,Powai,545.25
+764,9/3/2020,neque aenean,electronics,91,318.37,28971.67,5668,Vile Parle,187.15
+765,30/01/2020,velit,electronics,35,783.64,27427.4,5282,Kandivali,1.08
+766,30/11/2021,pede ullamcorper,outdoor gear,36,437.3,15742.8,3578,Malad,144.78
+767,18/07/2021,massa,home decor,95,907.39,86202.05,7444,Kandivali,585.94
+768,8/7/2020,scelerisque,beauty products,15,339.19,5087.85,6506,Chembur,437.05
+769,16/01/2022,sit,beauty products,5,131.47,657.35,1745,Mulund,307.27
+770,11/8/2021,id sapien,clothing,95,636.09,60428.55,7479,Goregaon,167.05
+771,16/12/2020,sit,beauty products,11,811.11,8922.21,4560,Dadar,230.86
+772,3/1/2021,sit amet,pet supplies,52,211.82,11014.64,6124,Sion,105.35
+773,4/6/2020,primis in,home decor,35,621.81,21763.35,7997,Goregaon,436.05
+774,18/09/2020,orci,clothing,33,810.88,26759.04,1340,Goregaon,206.1
+775,20/04/2021,proin,kitchen appliances,84,243.28,20435.52,4423,Vile Parle,379.04
+776,3/1/2021,at dolor,sports equipment,56,130.75,7322,5284,Chembur,407.76
+777,30/01/2022,eu,outdoor gear,38,596.2,22655.6,4868,Andheri,644.1
+778,11/3/2022,tincidunt nulla,toys,18,901.75,16231.5,6922,Mulund,39.06
+779,29/08/2022,odio porttitor,pet supplies,95,494.34,46962.3,3186,Juhu,555
+780,11/1/2022,felis,outdoor gear,79,730.15,57681.85,2911,Goregaon,542.1
+781,25/04/2021,tortor,clothing,65,930.69,60494.85,6644,Bhandup,389.9
+782,14/09/2020,ligula in,clothing,48,921.05,44210.4,6130,Bhandup,636.33
+783,18/11/2022,leo,pet supplies,84,3.07,257.88,9405,Dadar,182.33
+784,11/3/2020,sed,kitchen appliances,82,1.78,145.96,1530,Ghatkopar,187.71
+785,17/12/2021,consequat,home decor,92,903.83,83152.36,7182,Colaba,371.85
+786,29/08/2022,amet,sports equipment,50,567.38,28369,2606,Chembur,282.1
+787,11/6/2021,vulputate,toys,10,304.55,3045.5,6537,Vile Parle,479.1
+788,19/10/2020,pede,clothing,83,638.7,53012.1,3490,Navi Mumbai,3.53
+789,31/01/2021,in consequat,outdoor gear,55,401.38,22075.9,6211,Juhu,356.44
+790,19/10/2020,volutpat quam,clothing,26,606.89,15779.14,2399,Juhu,234.44
+791,11/9/2021,hac habitasse,toys,14,789.78,11056.92,1302,Malad,401.64
+792,13/03/2021,eleifend luctus,kitchen appliances,96,94.3,9052.8,2151,Andheri,523.18
+793,28/12/2020,sollicitudin vitae,home decor,66,783.37,51702.42,4138,Worli,480.62
+794,14/03/2022,elementum,sports equipment,69,249.85,17239.65,9978,Powai,556.74
+795,2/8/2022,laoreet,clothing,71,88.77,6302.67,1910,Sion,251.95
+796,29/07/2022,convallis nunc,outdoor gear,67,280.88,18818.96,1703,Andheri,685.89
+797,2/12/2022,donec,clothing,31,586.37,18177.47,1782,Dadar,482.1
+798,30/01/2020,cras,sports equipment,4,616.44,2465.76,5856,Lower Parel,156.3
+799,10/12/2021,felis sed,sports equipment,6,127.36,764.16,3154,Kandivali,59.03
+800,26/03/2021,elementum,pet supplies,87,158.83,13818.21,4046,Powai,320.21
+801,17/05/2021,sodales,sports equipment,52,755.4,39280.8,3082,Ghatkopar,94.99
+802,27/03/2020,duis consequat,clothing,51,817.45,41689.95,5813,Ghatkopar,113.82
+803,14/03/2021,nisi,kitchen appliances,82,624.56,51213.92,2652,Kurla,53.76
+804,1/10/2020,integer a,pet supplies,60,602.73,36163.8,8201,Goregaon,72.41
+805,22/11/2022,nam,toys,55,729.94,40146.7,8955,Powai,408.48
+806,22/08/2021,metus,sports equipment,65,459.07,29839.55,2506,Lower Parel,647.94
+807,29/12/2022,mauris vulputate,beauty products,85,754.03,64092.55,5121,Worli,369.54
+808,7/5/2021,cursus urna,office supplies,60,225.2,13512,3067,Ghatkopar,280.03
+809,22/12/2020,aenean sit,outdoor gear,37,569.75,21080.75,6041,Borivali,450.44
+810,27/04/2022,pellentesque volutpat,clothing,4,495.37,1981.48,9459,Goregaon,398.15
+811,1/5/2022,consectetuer adipiscing,pet supplies,94,124.61,11713.34,6911,Worli,360.08
+812,31/03/2022,diam,sports equipment,98,753.37,73830.26,1894,Borivali,104.35
+813,23/12/2021,odio porttitor,outdoor gear,21,406.69,8540.49,6118,Dadar,8.11
+814,28/10/2022,quam,beauty products,39,375.29,14636.31,9934,Powai,194.95
+815,13/11/2021,sapien varius,toys,18,78.19,1407.42,9170,Malad,550.59
+816,23/09/2021,tincidunt,outdoor gear,64,120.31,7699.84,4185,Mulund,334.95
+817,15/07/2022,sem,clothing,62,519.32,32197.84,2765,Juhu,516.81
+818,8/4/2020,id consequat,home decor,81,992.21,80369.01,6174,Borivali,86.59
+819,15/05/2021,convallis,sports equipment,38,623.86,23706.68,5465,Bandra,540.24
+820,26/07/2022,vel enim,beauty products,6,650.77,3904.62,8085,Worli,26.75
+821,10/6/2020,in,toys,59,835.38,49287.42,3812,Powai,667.05
+822,30/09/2021,vel,toys,9,612.17,5509.53,4205,Mulund,462.63
+823,8/11/2022,dolor quis,sports equipment,63,790.32,49790.16,6270,Andheri,495.46
+824,3/5/2022,eget massa,pet supplies,43,115.24,4955.32,8218,Dadar,482.69
+825,9/7/2020,non sodales,office supplies,35,515.69,18049.15,2396,Mulund,90.59
+826,14/01/2022,nec,home decor,66,245.09,16175.94,5852,Lower Parel,277.19
+827,20/02/2021,sit amet,clothing,99,962.13,95250.87,3384,Lower Parel,207.19
+828,3/11/2022,praesent id,sports equipment,89,519.64,46247.96,3869,Worli,376.64
+829,30/01/2020,proin at,kitchen appliances,76,535.7,40713.2,4766,Bhandup,137.15
+830,23/09/2022,quis lectus,outdoor gear,21,776.34,16303.14,7203,Mulund,689.11
+831,14/11/2020,tortor,home decor,2,430.28,860.56,3354,Vile Parle,444.73
+832,16/11/2020,pede,outdoor gear,3,116.55,349.65,3572,Ghatkopar,529.27
+833,3/1/2022,at,beauty products,53,45.63,2418.39,9309,Mulund,209.31
+834,5/8/2021,vivamus in,beauty products,35,474.19,16596.65,8239,Worli,535.56
+835,19/05/2020,sapien,beauty products,35,898.47,31446.45,9835,Bhandup,503.9
+836,23/12/2022,vel,office supplies,67,44.81,3002.27,8842,Andheri,168.79
+837,19/04/2021,ligula in,beauty products,12,506.97,6083.64,7025,Borivali,172.61
+838,23/08/2022,at lorem,outdoor gear,24,538.74,12929.76,2303,Dadar,65.04
+839,5/6/2020,pellentesque,kitchen appliances,61,395.06,24098.66,7820,Andheri,588.83
+840,21/10/2022,quis justo,office supplies,4,174.04,696.16,4478,Powai,259.97
+841,7/3/2022,elit,clothing,83,64.9,5386.7,1135,Mulund,340.13
+842,2/10/2021,suspendisse accumsan,electronics,67,292.41,19591.47,4190,Kandivali,600.97
+843,17/02/2021,tincidunt,kitchen appliances,88,610.83,53753.04,1467,Borivali,380.64
+844,19/05/2022,semper,sports equipment,22,147.09,3235.98,4708,Andheri,353.88
+845,17/07/2022,eu,clothing,67,84.29,5647.43,3283,Andheri,610.04
+846,25/12/2022,diam nam,beauty products,87,173.02,15052.74,7681,Kurla,462.24
+847,16/04/2020,vestibulum vestibulum,kitchen appliances,91,399.7,36372.7,9024,Sion,655.75
+848,25/04/2022,auctor,toys,86,472.38,40624.68,6321,Ghatkopar,457.54
+849,13/12/2021,quis odio,clothing,13,175.39,2280.07,3181,Ghatkopar,146.59
+850,28/06/2022,sit,office supplies,82,368.71,30234.22,5140,Kandivali,398.85
+851,15/07/2021,nullam,clothing,19,549.04,10431.76,3729,Mulund,419.49
+852,29/12/2022,pede,toys,60,516.12,30967.2,6482,Borivali,357.58
+853,9/8/2020,condimentum,outdoor gear,60,937.03,56221.8,9032,Sion,675.26
+854,26/11/2021,in,electronics,63,322.69,20329.47,7342,Mulund,307.35
+855,16/11/2021,lobortis est,home decor,75,994.55,74591.25,4087,Powai,674.85
+856,18/05/2022,venenatis non,clothing,76,391.18,29729.68,2220,Bandra,253.16
+857,26/01/2020,nisi at,electronics,91,521.07,47417.37,1470,Chembur,296.55
+858,17/06/2022,nam,toys,63,484.28,30509.64,4752,Colaba,638.52
+859,20/04/2022,id,toys,28,179.14,5015.92,1093,Lower Parel,326.29
+860,5/11/2020,elit proin,kitchen appliances,28,780.18,21845.04,4965,Colaba,44.38
+861,31/10/2021,tempus,kitchen appliances,56,587.16,32880.96,6052,Colaba,501.13
+862,14/11/2022,consequat,toys,2,811.07,1622.14,1194,Colaba,534.03
+863,30/09/2021,semper,kitchen appliances,40,885.02,35400.8,9621,Bandra,55.64
+864,16/01/2020,nisi,electronics,90,604.84,54435.6,5993,Mulund,318.45
+865,23/03/2021,nulla,toys,27,329.74,8902.98,2274,Worli,37.58
+866,30/08/2020,sagittis sapien,office supplies,41,262.37,10757.17,5956,Bandra,314.77
+867,27/05/2021,duis mattis,home decor,73,853.22,62285.06,1371,Sion,56.06
+868,16/04/2022,turpis enim,clothing,16,979.09,15665.44,4978,Powai,115.47
+869,24/04/2022,suspendisse potenti,kitchen appliances,27,593.13,16014.51,3788,Chembur,124.83
+870,22/06/2022,volutpat erat,outdoor gear,52,14.07,731.64,4433,Colaba,483.74
+871,16/06/2020,ultrices enim,beauty products,39,537.17,20949.63,9597,Navi Mumbai,427.43
+872,9/9/2020,donec,electronics,38,619.7,23548.6,4902,Goregaon,69.74
+873,5/4/2020,luctus,electronics,53,430.4,22811.2,3187,Lower Parel,407.37
+874,27/04/2021,integer non,clothing,19,593.65,11279.35,4017,Malad,404.66
+875,31/10/2022,odio,office supplies,36,244.67,8808.12,8804,Lower Parel,180.5
+876,26/05/2022,donec quis,sports equipment,32,561.92,17981.44,4392,Vile Parle,9.94
+877,2/2/2020,quis justo,toys,41,76.72,3145.52,7459,Juhu,377.32
+878,16/03/2020,hac habitasse,electronics,88,422.47,37177.36,7889,Bhandup,290.2
+879,3/2/2021,purus,home decor,28,109.48,3065.44,4467,Colaba,386.85
+880,20/03/2022,posuere,outdoor gear,24,954.77,22914.48,5914,Andheri,545.56
+881,19/08/2020,tristique,sports equipment,50,263.92,13196,2951,Kurla,212.65
+882,23/04/2020,odio,sports equipment,20,530.12,10602.4,9167,Malad,295.47
+883,29/12/2020,convallis nulla,toys,37,289.03,10694.11,9443,Kandivali,187.56
+884,16/04/2021,urna pretium,electronics,89,539.47,48012.83,1216,Juhu,615.3
+885,25/05/2022,ante,toys,68,454.17,30883.56,9200,Juhu,672.75
+886,24/04/2021,vestibulum,toys,82,211.99,17383.18,1086,Andheri,669.59
+887,7/10/2021,metus aenean,pet supplies,65,739.55,48070.75,7066,Colaba,152.05
+888,6/10/2020,lorem,home decor,4,295.04,1180.16,7120,Ghatkopar,246.56
+889,20/05/2020,posuere metus,beauty products,39,885.68,34541.52,9419,Goregaon,552.52
+890,15/06/2022,facilisi,kitchen appliances,7,399.16,2794.12,7256,Malad,521.47
+891,30/10/2021,eu,outdoor gear,94,216.44,20345.36,5116,Lower Parel,550.37
+892,3/1/2022,nunc vestibulum,outdoor gear,99,740.58,73317.42,2500,Goregaon,237.36
+893,4/6/2021,nam,office supplies,87,523.72,45563.64,6462,Vile Parle,280.83
+894,11/12/2021,risus,electronics,76,947.36,71999.36,4920,Chembur,564.76
+895,22/11/2021,nibh in,kitchen appliances,37,936.33,34644.21,3279,Colaba,105.5
+896,13/01/2022,sem praesent,kitchen appliances,89,653.79,58187.31,3643,Chembur,331.92
+897,1/6/2022,sem,outdoor gear,38,547.9,20820.2,2547,Borivali,463.6
+898,8/3/2020,semper,kitchen appliances,65,370.44,24078.6,5182,Juhu,336.84
+899,16/11/2020,quis,sports equipment,28,985.72,27600.16,3439,Kandivali,191.46
+900,28/03/2020,semper,electronics,72,554.23,39904.56,1896,Bandra,687.95
+901,14/05/2021,risus,home decor,64,331.71,21229.44,4510,Worli,124.95
+902,30/01/2020,risus,clothing,49,427.23,20934.27,2415,Ghatkopar,331.65
+903,21/04/2021,bibendum felis,home decor,83,774.56,64288.48,3963,Powai,40.97
+904,9/1/2022,sit amet,clothing,91,859.3,78196.3,4847,Andheri,519.99
+905,6/12/2021,ligula,pet supplies,63,898.32,56594.16,5956,Kandivali,296.35
+906,16/08/2020,quis libero,pet supplies,20,371.31,7426.2,4274,Juhu,666.62
+907,19/03/2020,nibh,sports equipment,80,826.87,66149.6,2238,Chembur,310.96
+908,2/2/2021,suspendisse,pet supplies,49,379.43,18592.07,6054,Andheri,651.35
+909,16/04/2020,justo,kitchen appliances,40,879.48,35179.2,8522,Lower Parel,97.09
+910,11/6/2020,suspendisse,home decor,12,453.79,5445.48,5588,Powai,665.82
+911,7/1/2022,eu,toys,9,186.45,1678.05,3734,Malad,552.25
+912,11/5/2022,sit amet,toys,69,802.33,55360.77,8108,Mulund,682.04
+913,12/10/2020,ac,electronics,66,161.7,10672.2,7818,Goregaon,543.89
+914,14/01/2022,ornare consequat,electronics,6,62.55,375.3,6519,Chembur,510.76
+915,20/03/2022,imperdiet,electronics,45,520.01,23400.45,6643,Navi Mumbai,254.26
+916,7/9/2022,vestibulum sit,home decor,94,400.78,37673.32,9720,Bhandup,532.28
+917,22/08/2020,nulla ac,pet supplies,33,968.33,31954.89,9135,Malad,363.49
+918,1/1/2022,felis eu,pet supplies,64,731.77,46833.28,6143,Kandivali,352.42
+919,28/06/2020,sed,kitchen appliances,99,225.25,22299.75,5133,Dadar,651.85
+920,27/02/2021,erat,outdoor gear,53,378.7,20071.1,4728,Goregaon,223.67
+921,7/8/2021,ac,electronics,50,555.6,27780,4935,Borivali,667.61
+922,25/08/2020,pulvinar,outdoor gear,48,647.14,31062.72,6431,Mulund,586.4
+923,7/12/2020,justo in,toys,49,686.84,33655.16,6278,Sion,189.69
+924,23/11/2022,vestibulum sit,pet supplies,79,326.69,25808.51,8422,Sion,612.92
+925,4/5/2020,vivamus,outdoor gear,97,943.67,91535.99,8670,Chembur,683.27
+926,5/6/2021,consequat dui,electronics,57,88.8,5061.6,6033,Kurla,197.47
+927,1/3/2021,ante,clothing,97,866.58,84058.26,3825,Vile Parle,9.4
+928,30/10/2022,rutrum nulla,outdoor gear,49,268.53,13157.97,9261,Malad,202.07
+929,14/03/2022,sollicitudin ut,pet supplies,94,558.06,52457.64,4557,Malad,114.23
+930,14/08/2022,rhoncus sed,outdoor gear,91,379.29,34515.39,6129,Colaba,50.64
+931,26/04/2020,ligula vehicula,office supplies,3,694.18,2082.54,9120,Goregaon,451.31
+932,14/07/2022,rutrum neque,office supplies,22,916.27,20157.94,6015,Bandra,129.26
+933,30/03/2022,potenti,sports equipment,12,122.43,1469.16,5838,Powai,90.56
+934,24/06/2022,nisl,sports equipment,72,720.25,51858,7470,Powai,265.29
+935,11/1/2022,maecenas rhoncus,toys,84,546.85,45935.4,8514,Kurla,589.38
+936,12/10/2020,montes,clothing,59,895.7,52846.3,9230,Dadar,279.55
+937,21/04/2020,quam fringilla,sports equipment,96,813.38,78084.48,5001,Vile Parle,79.94
+938,9/11/2022,et ultrices,sports equipment,38,852.67,32401.46,6395,Andheri,500.55
+939,2/3/2022,praesent,outdoor gear,9,469.71,4227.39,2976,Chembur,483.21
+940,14/01/2021,quis,kitchen appliances,5,78.89,394.45,6173,Kurla,497.3
+941,31/08/2020,nulla,clothing,31,248.65,7708.15,1623,Dadar,111.92
+942,4/12/2022,semper est,office supplies,9,487.74,4389.66,6023,Kurla,127.64
+943,24/02/2021,donec,home decor,100,547.73,54773,3016,Andheri,365.84
+944,17/01/2020,potenti,kitchen appliances,66,187.2,12355.2,6150,Dadar,433.69
+945,7/4/2022,diam,home decor,66,448.62,29608.92,6432,Colaba,246.02
+946,4/1/2020,in,beauty products,14,156.88,2196.32,2525,Chembur,135.67
+947,12/5/2020,nunc donec,office supplies,70,111.01,7770.7,9226,Lower Parel,649.74
+948,9/10/2021,sed,home decor,3,548.24,1644.72,8214,Bhandup,279.79
+949,27/02/2020,nec,toys,81,100.73,8159.13,3048,Ghatkopar,657.66
+950,22/01/2021,in quis,pet supplies,4,916.23,3664.92,7981,Goregaon,352.95
+951,23/08/2022,in,outdoor gear,18,475.58,8560.44,8845,Chembur,496.88
+952,20/11/2022,faucibus,clothing,63,792.86,49950.18,4916,Powai,158.42
+953,14/04/2020,tincidunt,pet supplies,54,385.36,20809.44,3374,Kurla,321.82
+954,25/10/2020,vel dapibus,home decor,95,472.64,44900.8,9828,Chembur,465.58
+955,16/08/2021,scelerisque,home decor,41,919.7,37707.7,6895,Mulund,140.86
+956,31/05/2021,nec euismod,home decor,83,452.95,37594.85,9235,Colaba,363.66
+957,3/5/2020,sollicitudin ut,pet supplies,65,947.16,61565.4,8419,Powai,298.25
+958,11/3/2022,volutpat erat,sports equipment,15,292.44,4386.6,2031,Bhandup,330.1
+959,14/03/2021,sapien,office supplies,65,187.24,12170.6,5872,Kurla,563.74
+960,16/01/2021,aliquet ultrices,pet supplies,48,925.12,44405.76,2311,Dadar,300.07
+961,12/12/2022,donec,kitchen appliances,9,892.05,8028.45,4750,Ghatkopar,168.22
+962,16/10/2022,quisque porta,office supplies,44,96.22,4233.68,1776,Ghatkopar,257.26
+963,1/3/2022,amet diam,beauty products,77,232.17,17877.09,3822,Goregaon,294.65
+964,5/1/2022,rutrum at,outdoor gear,39,267.94,10449.66,8395,Worli,485.95
+965,23/04/2020,faucibus,clothing,88,151.94,13370.72,9861,Juhu,458.47
+966,17/01/2022,vel,kitchen appliances,77,547.68,42171.36,5863,Bandra,51.68
+967,7/1/2022,nibh,office supplies,84,881.41,74038.44,9101,Dadar,568.25
+968,4/4/2022,quisque,outdoor gear,1,52.86,52.86,8756,Lower Parel,515.28
+969,7/5/2021,neque sapien,beauty products,80,240.91,19272.8,4945,Navi Mumbai,66.79
+970,17/10/2022,suspendisse,clothing,64,444.09,28421.76,6459,Kurla,235.42
+971,30/01/2020,egestas metus,toys,11,639.84,7038.24,2864,Dadar,347.93
+972,29/05/2021,potenti,outdoor gear,21,97.88,2055.48,1498,Chembur,461.22
+973,18/11/2021,nascetur ridiculus,beauty products,25,339.62,8490.5,5777,Worli,242.57
+974,4/9/2021,etiam faucibus,electronics,88,48.2,4241.6,1603,Dadar,88
+975,14/10/2022,enim,toys,45,74.89,3370.05,2335,Bandra,340.25
+976,22/11/2021,nulla tellus,sports equipment,57,376.79,21477.03,1577,Navi Mumbai,503.2
+977,2/8/2020,vestibulum sagittis,electronics,92,31.56,2903.52,3237,Colaba,484.22
+978,10/12/2021,consequat morbi,outdoor gear,90,350.54,31548.6,3369,Dadar,177.64
+979,14/09/2020,amet nunc,clothing,78,407.71,31801.38,9734,Bhandup,272.28
+980,4/1/2021,ipsum,outdoor gear,61,393.86,24025.46,4572,Mulund,479.61
+981,16/05/2021,condimentum curabitur,beauty products,23,456.35,10496.05,8458,Mulund,417.26
+982,3/6/2022,vestibulum,kitchen appliances,72,89.33,6431.76,4450,Chembur,518.7
+983,5/7/2021,eu massa,home decor,13,51.04,663.52,6803,Powai,342.66
+984,15/07/2022,nulla,pet supplies,67,377.84,25315.28,8690,Navi Mumbai,370.74
+985,9/4/2022,cursus urna,toys,82,139.23,11416.86,5378,Vile Parle,100.8
+986,4/9/2022,est congue,clothing,18,624.51,11241.18,3731,Malad,277.58
+987,11/10/2022,ipsum integer,outdoor gear,63,623.41,39274.83,4099,Malad,217.35
+988,19/04/2022,ante,home decor,86,504.85,43417.1,5019,Juhu,536.63
+989,21/01/2021,augue vestibulum,outdoor gear,69,14.77,1019.13,1115,Bhandup,545.71
+990,1/11/2021,diam,home decor,54,206.71,11162.34,4621,Chembur,380.75
+991,30/03/2021,montes,sports equipment,12,488.3,5859.6,7897,Bhandup,346.93
+992,21/12/2021,ligula pellentesque,sports equipment,92,376.44,34632.48,8775,Juhu,502.51
+993,31/03/2022,integer pede,sports equipment,26,53.85,1400.1,6051,Lower Parel,135.35
+994,21/07/2022,quis,electronics,5,391.6,1958,8428,Lower Parel,450.11
+995,16/02/2020,fusce posuere,sports equipment,52,113.68,5911.36,6249,Colaba,410.99
+996,7/5/2022,pellentesque quisque,pet supplies,73,942.47,68800.31,4646,Bandra,513.09
+997,15/12/2020,aenean,pet supplies,97,208.99,20272.03,6961,Borivali,259.25
+998,14/07/2020,sapien in,sports equipment,24,316.79,7602.96,7291,Powai,434.17
+999,28/05/2020,tellus,clothing,83,963.1,79937.3,9965,Kandivali,148.21
+1000,17/11/2020,posuere felis,pet supplies,44,938.66,41301.04,9557,Bandra,691.72

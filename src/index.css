@@ -1,0 +1,12 @@
+#body{
+    margin: 0
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+link{
+    color: white;
+    text-decoration: none;
+    
+}

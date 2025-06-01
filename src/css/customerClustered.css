@@ -1,0 +1,78 @@
+.customer-clustered-page {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #f5f7fa;
+}
+
+.customer-clustered-page h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+  text-align: center;
+}
+
+.customer-clustered-page p {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  text-align: justify;
+}
+
+.cluster-explanation {
+  margin-top: 2rem;
+}
+
+.cluster-explanation h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #34495e;
+}
+
+.cluster-item {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.cluster-item:hover {
+  transform: translateY(-5px);
+}
+
+.cluster-item h4 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+  color: #2980b9;
+}
+
+.cluster-item p {
+  font-size: 1rem;
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .customer-clustered-page {
+    padding: 1rem;
+  }
+
+  .cluster-item {
+    padding: 1rem;
+  }
+
+  .customer-clustered-page h2 {
+    font-size: 1.5rem;
+  }
+
+  .cluster-explanation h3 {
+    font-size: 1.25rem;
+  }
+
+  .cluster-item h4 {
+    font-size: 1.1rem;
+  }
+}
