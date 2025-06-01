@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import '../index.css'
-import '../css/Sidebar.css'; // Sidebar styles
+import '../css/sidebar.css'; // Sidebar styles
 import { Link } from 'react-router-dom'
 const Sidebar = ({ isOpen, toggleSidebar }) => {
   const [currentSection,setCurrentSection] = useState('home')
