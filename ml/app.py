@@ -76,7 +76,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173","https://ai-powered-business-analyst.onrender.com"],
+    allow_origins=["http://localhost:5173","https://ai-powered-business-analyst.onrender.com","https://ai-powered-business-analyst.onrender.com/upload"],
     
     allow_credentials=True,
     allow_methods=["*"],
